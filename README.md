@@ -16,5 +16,6 @@ $330/month: $0.18 per 1k characters
 OpenAI API:
 
 TTS: $0.015 / 1K characters
-
+for a given book, cost of voice over will cost $13,5. Too much, need local tts.
 TTS HD: $0.030 / 1K characters
+

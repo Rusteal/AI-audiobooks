@@ -42,5 +42,9 @@ def image_pdf_to_string(pdf_filepath: str) -> str: #have not been tested/ draft
     return text
 
 
-if __name__ == "__main__":
-    print(text_pdf_to_string("04.0_pp_xxv_xxviii_Preface_to_first_edition.pdf"))
+# if __name__ == "__main__":
+#     text = text_pdf_to_string("C:/Users/rusla/Downloads/cambridge-core_the-methodology-of-economics_2Jul2025/04.0_pp_xxv_xxviii_Preface_to_first_edition.pdf")
+#     splitted = split_text_by_sentences(text)
+#     for chunk in splitted:
+#         print(chunk)
+#         print("\n NEXT CHUNK:")

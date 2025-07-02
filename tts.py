@@ -37,7 +37,7 @@ def openai_tts(text: str, output_path: str):
     """
     
     with client.audio.speech.with_streaming_response.create( # configure voice, good exmaple https://cookbook.openai.com/examples/gpt_with_vision_for_video_understanding
-        model="gpt-4o-mini-tts",
+        model="tts-1", #tts-1, tts-1-hd, gpt-4o-mini-tts,
         voice="echo", # could be alloy, ash, ballad, coral, echo, fable, nova, onyx, sage, shimmer
         input=text,
         instructions=instructions,
@@ -64,16 +64,117 @@ def openai_tts(text: str, output_path: str):
 
     # audio_bytes = audio_response.content
     # Audio(data=audio_bytes)
-    
-    
+
+
+
+def split_text_into_n_tokens_chunks(
+    text: str,
+    model: str = "gpt-4o-mini-tts",
+    max_tokens: int = 2000
+) -> list[str]:
+    """
+    Splits text into chunks that stay within the model-specific token limit.
+
+    Args:
+        text (str): The input text to split.
+        model (str): The TTS model to use ('tts-1', 'tts-1-hd', or 'gpt-4o-mini-tts').
+        max_tokens (int): Maximum tokens per chunk.
+
+    Returns:
+        List[str]: List of text chunks that do not exceed max_tokens each.
+    """
+    import tiktoken
+    try:
+        encoding = tiktoken.encoding_for_model(model)
+    except KeyError:
+        # For TTS models not directly supported, fallback
+        encoding = tiktoken.get_encoding("cl100k_base")
+        print(f"Could not find the encoding for the model {model}. So the defauld cl100k_base encoder will be used")
+
+    words = text.split()
+    chunks = []
+    current_chunk = []
+
+    for word in words:
+        # Add word to current chunk
+        current_chunk.append(word)
+        tokens = encoding.encode(" ".join(current_chunk))
+        if len(tokens) > max_tokens:
+            # Remove last word and commit chunk
+            current_chunk.pop()
+            chunks.append(" ".join(current_chunk))
+            current_chunk = [word]
+
+    # Add final chunk
+    if current_chunk:
+        chunks.append(" ".join(current_chunk))
+
+    return chunks
+
+
+def split_text_by_sentences(
+    text: str,
+    base_limit: int = 3900,
+    max_limit: int = 4096,
+    sentence_endings: tuple = (".", "!", "?")
+) -> list[str]:
+    """
+    Splits text into chunks up to max_limit characters,
+    breaking only at sentence-ending punctuation for TTS-1.
+
+    Args:
+        text (str): The input text.
+        base_limit (int): Starting cutoff for scanning. Should be a bit below max_limit.
+        max_limit (int): Hard max characters per chunk.
+        sentence_endings (tuple): Sentence-ending punctuation marks.
+
+    Returns:
+        List[str]: List of sentence-based chunks.
+    """
+    chunks = []
+
+    while text:
+        if len(text) <= max_limit:
+            # Remaining text fits in one chunk
+            chunks.append(text.strip())
+            break
+
+        # Start scanning at base_limit
+        cutoff = base_limit
+        extended = False
+
+        while cutoff < len(text) and cutoff < max_limit:
+            if text[cutoff] in sentence_endings:
+                # Include the punctuation mark
+                cutoff += 1
+                extended = True
+                break
+            cutoff += 1
+
+        # If no sentence-ending punctuation found in range, fallback
+        if not extended:
+            cutoff = max_limit
+
+        chunk = text[:cutoff].strip()
+        chunks.append(chunk)
+        text = text[cutoff:].lstrip()  # Remove leading spaces for next round
+
+    return chunks
+
 if __name__ == "__main__":
-    dir = "cambridge-core_the-methodology-of-economics_2Jul2025" #set your directory with pdfs which you would like voice-overed
-    #counter = 0
+    dir = "C:/Users/rusla/Downloads/cambridge-core_the-methodology-of-economics_2Jul2025" #set your directory with pdfs which you would like voice-overed"
+    # counter = 0
     for file in os.listdir(dir):
-        # if counter >= 1:
-        #     break
-        openai_tts(text_pdf_to_string(dir + "/" + file), dir+ "/" +  file.replace(".pdf", ".mp3"))
-        #counter +=1
+        if file.endswith("pdf"):
+            
+            text = text_pdf_to_string(dir + "/" + file)
+            splitted = split_text_by_sentences(text)
+            for id, chunk in enumerate(splitted):
+                # if counter >= 1:
+                #     break
+                openai_tts(chunk, dir + "/" + file.replace(".pdf", "") + str(id) + ".mp3")
+                # counter +=1
+    
     
     
         
