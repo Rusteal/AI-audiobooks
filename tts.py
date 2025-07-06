@@ -1,5 +1,8 @@
 from pdf_to_string import text_pdf_to_string
 import os
+import torchaudio as ta
+from chatterbox.tts import ChatterboxTTS
+
 def eleven_labs_tts(): # have not been tested/ too big costs
     from elevenlabs import ElevenLabs
 
@@ -64,6 +67,17 @@ def openai_tts(text: str, output_path: str):
 
     # audio_bytes = audio_response.content
     # Audio(data=audio_bytes)
+
+
+def chatterbox_tts(text, output_path):
+    model = ChatterboxTTS.from_pretrained(device="cpu")
+    wav = model.generate(text)
+    ta.save(output_path, wav, model.sr)
+
+    # If you want to synthesize with a different voice, specify the audio prompt
+    # AUDIO_PROMPT_PATH = "YOUR_FILE.wav"
+    # wav = model.generate(text, audio_prompt_path=AUDIO_PROMPT_PATH)
+    # ta.save("test-2.wav", wav, model.sr)
 
 
 
