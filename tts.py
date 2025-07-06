@@ -176,19 +176,29 @@ def split_text_by_sentences(
     return chunks
 
 if __name__ == "__main__":
-    dir = "C:/Users/rusla/Downloads/cambridge-core_the-methodology-of-economics_2Jul2025" #set your directory with pdfs which you would like voice-overed"
-    # counter = 0
-    for file in os.listdir(dir):
-        if file.endswith("pdf"):
+    # dir = "C:/Users/rusla/Downloads/cambridge-core_the-methodology-of-economics_2Jul2025" #set your directory with pdfs which you would like voice-overed"
+    # # counter = 0
+    # for file in os.listdir(dir):
+    #     if file.endswith("pdf"):
             
-            text = text_pdf_to_string(dir + "/" + file)
-            splitted = split_text_by_sentences(text)
-            for id, chunk in enumerate(splitted):
-                # if counter >= 1:
-                #     break
-                openai_tts(chunk, dir + "/" + file.replace(".pdf", "") + str(id) + ".mp3")
-                # counter +=1
+    #         text = text_pdf_to_string(dir + "/" + file)
+    #         splitted = split_text_by_sentences(text)
+    #         for id, chunk in enumerate(splitted):
+    #             # if counter >= 1:
+    #             #     break
+    #             openai_tts(chunk, dir + "/" + file.replace(".pdf", "") + str(id) + ".mp3")
+    #             # counter +=1
+    import time
     
+    start_time = time.time()
+    text = "Hello there, I am here testing if chatterbox works at all and how long will it take for it to run"
+    chatterbox_tts(text, "output.wav") # works, make sure numpy of proper version is installed
+    # NumPy version >=1.21.6 and <1.28.0 detected → good!
+    # Very good voice quality. Eve nbetter than cheapest (but not really cheap openai)
+    
+    end_time = time.time()
+    
+    print("total execution time " + str(end_time - start_time))
     
     
         
