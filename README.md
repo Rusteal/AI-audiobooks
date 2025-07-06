@@ -22,3 +22,4 @@ TTS HD: $0.030 / 1K characters
 Local model (chatterbox).
 Good quality, long execution, especially without new gpu avaliable.
 Ryzen 5 5200, takes 90 sec to generate 4 sec audiofile, but quality is nice, good voiceclonning
+Nvidia 4060 8gb creates 16 sec of audio in 13 sec, sourse: https://www.youtube.com/watch?v=trgPAtcVNfQ
