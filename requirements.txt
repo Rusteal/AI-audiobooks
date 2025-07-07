@@ -6,7 +6,7 @@ pytesseract>=0.3.10
 # === Audio + TTS ===
 torchaudio>=2.2.2
 torch>=2.2.2  # Make sure to match your CUDA/CPU version if you ever use GPU
-chatterbox  # Use latest or pin if you find a version that works best
+chatterbox-tts  # Use latest or pin if you find a version that works best
 
 # === NLP token counting ===
 tiktoken>=0.6.0
