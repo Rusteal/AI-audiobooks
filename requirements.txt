@@ -1,0 +1,26 @@
+# === PDF processing ===
+PyPDF2>=3.0.0
+pdf2image>=1.16.3
+pytesseract>=0.3.10
+
+# === Audio + TTS ===
+torchaudio>=2.2.2
+torch>=2.2.2  # Make sure to match your CUDA/CPU version if you ever use GPU
+chatterbox  # Use latest or pin if you find a version that works best
+
+# === NLP token counting ===
+tiktoken>=0.6.0
+
+# === OpenAI API ===
+openai>=1.30.1
+
+# === Optional: ElevenLabs (only if you use it) ===
+elevenlabs>=1.0.0
+
+# === Dependencies that MUST match — SciPy needs stable numpy ===
+numpy>=1.21.6,<1.28.0
+scipy>=1.11.0
+librosa>=0.10.0  # Needed because chatterbox uses it via perth
+
+# === Good practice ===
+# Use virtualenv to keep these isolated
