@@ -19,3 +19,10 @@ TTS: $0.015 / 1K characters
 for a given book, cost of voice over will cost $13,5. Too much, need local tts.
 TTS HD: $0.030 / 1K characters
 
+Local model (chatterbox).
+Good quality, long execution, especially without new gpu avaliable.
+Ryzen 5 5200, takes 90 sec to generate 4 sec audiofile, but quality is nice, good voiceclonning
+Nvidia 4060 8gb creates 16 sec of audio in 13 sec, sourse: https://www.youtube.com/watch?v=trgPAtcVNfQ
+My laptop Intel i7-12700H 12th gen: 122 sec for 15 sec voicefile.
+Nvidia 4070: 8.7 sec for 16 sec audifile
+https://www.videocardbenchmark.net/high_end_gpus.html

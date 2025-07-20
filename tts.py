@@ -197,7 +197,12 @@ if __name__ == "__main__":
     import time
     
     start_time = time.time()
-    text = "Hello there, I am here testing if chatterbox works at all and how long will it take for it to run"
+    text = """
+    The first edition of this book was published in 1980. Since then we have seen
+    seven major textbooks, three books of readings, an annotated bibliography,
+    and of course hundreds of articles, all focused on economic methodology 
+    not bad going for a mere decade of intellectual activity in a relatively minor
+    branch of economics."""
     chatterbox_tts(text, "output.wav") # works, make sure numpy of proper version is installed
     # NumPy version >=1.21.6 and <1.28.0 detected → good!
     # Very good voice quality. Eve nbetter than cheapest (but not really cheap openai)
