@@ -69,16 +69,22 @@ def openai_tts(text: str, output_path: str):
     # Audio(data=audio_bytes)
 
 
-def chatterbox_tts(text, output_path):
+def chatterbox_tts(text:str, output_path:str, voice_sample_path: str, from_voice: bool = False, cfg_weight: float = 0.5, exaggeration: float = 0.5):
+    """Tips
+    General Use (TTS and Voice Agents):
+
+    The default settings (exaggeration=0.5, cfg_weight=0.5) work well for most prompts.
+    If the reference speaker has a fast speaking style, lowering cfg_weight to around 0.3 can improve pacing.
+    
+    Expressive or Dramatic Speech:
+    Try lower cfg_weight values (e.g. ~0.3) and increase exaggeration to around 0.7 or higher.
+    Higher exaggeration tends to speed up speech; reducing cfg_weight helps compensate with slower, more deliberate pacing."""
     model = ChatterboxTTS.from_pretrained(device="cpu")
-    wav = model.generate(text)
+    if from_voice:
+        wav = model.generate(text, audio_prompt_path=voice_sample_path, cfg_weight=cfg_weight, exaggeration=exaggeration)
+    else:
+        wav = model.generate(text,  cfg_weight=cfg_weight, exaggeration=exaggeration)
     ta.save(output_path, wav, model.sr)
-
-    # If you want to synthesize with a different voice, specify the audio prompt
-    # AUDIO_PROMPT_PATH = "YOUR_FILE.wav"
-    # wav = model.generate(text, audio_prompt_path=AUDIO_PROMPT_PATH)
-    # ta.save("test-2.wav", wav, model.sr)
-
 
 
 def split_text_into_n_tokens_chunks(
