@@ -30,4 +30,4 @@ https://www.videocardbenchmark.net/high_end_gpus.html
 
 My own benchmarks:
 5060 Ti, created a file from a given voice, 3.5 minutes file, produced in sligtly more than 5 minutes.
-another file 20 pages, file duration: , produced: 
+another file 20 pages, file duration: , produced in: 1600*2=3200 seconds, or almoust an hour.
