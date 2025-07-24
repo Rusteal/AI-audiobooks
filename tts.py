@@ -79,7 +79,7 @@ def chatterbox_tts(text:str, output_path:str, voice_sample_path: str, from_voice
     Expressive or Dramatic Speech:
     Try lower cfg_weight values (e.g. ~0.3) and increase exaggeration to around 0.7 or higher.
     Higher exaggeration tends to speed up speech; reducing cfg_weight helps compensate with slower, more deliberate pacing."""
-    model = ChatterboxTTS.from_pretrained(device="cpu")
+    model = ChatterboxTTS.from_pretrained(device="cuda")
     if from_voice:
         wav = model.generate(text, audio_prompt_path=voice_sample_path, cfg_weight=cfg_weight, exaggeration=exaggeration)
     else:
