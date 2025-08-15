@@ -22,7 +22,7 @@ if __name__ == "__main__":
     start_time = time.time()
     chatterbox_tts(text = extracted_text[:1158], 
                    output_path= "SilencingAmbiPage1(2).wav", 
-                   voice_sample_path="C:/Users/Ruslan/Downloads/John Walton Audiobook/20250720_155854.wav", from_voice=True,
+                   voice_sample_path="C:/Users/Ruslan/Downloads/John Walton Audiobook/20250720_155854.wav", from_voice=False,
                    exaggeration=0.5, cfg_weight=0.3)
     end_time = time.time()
     print("total execution time " + str(end_time - start_time))

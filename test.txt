@@ -1,0 +1,2070 @@
+Page	862
+Mergers	and
+Acquisitions
+26
+IN	MAY	2014,
+	record	producer,	rapper,	and	entrepreneur	Dr.	Dre	became	hip
+hop’s	first	billionaire	when	Apple	purchased	headphone	company	Beats	for	$3.2	billion.
+Dr.	Dre	was	so	excited	about	the	acquisition	that	he	posted	a	YouTube	video	celebrating
+the	deal.	Apple’s	acquisition	was	driven	by	the	successful	branding	of	Beats	headphones,
+as	well	as	instant	access	to	the	streaming	music	service	offered	by	Beats.	So	how	do
+companies	like	Apple	and	Beats	determine	whether	mergers	or	acquisitions	like	this	are
+worthwhile?	This	chapter	explores	reasons	mergers	and	acquisitions	take	place—and	just
+as	important,	reasons	why	they	should	not.
+For	updates	on	the	latest	happenings	in	finance,	visit
+www.fundamentalsofcorporatefinance.blogspot.com
+.
+Learning	Objectives
+After	studying	this	chapter,	you	should	understand:
+LO1
+The	different	types	of	mergers	and	acquisitions,	why	they
+should	(or	shouldn’t)	take	place,	and	the	terminology
+associated	with	them.
+LO2
+How	accountants	construct	the	combined	balance	sheet	of	the
+new	company.
+LO3
+The	gains	from	a	merger	or	acquisition	and	how	to	value	the
+transaction.
+Page	863
+transaction.
+There	is	no	more	dramatic	or	controversial	activity	in	corporate	finance
+than	the	acquisition	of	one	firm	by	another	or	the	merger	of	two	firms.	It	is
+the	stuff	of	headlines	in	the	financial	press,	and	it	is	occasionally	an
+embarrassing	source	of	scandal.	And	there	are	a	lot	of	mergers.	For
+example,	during	the	first	two	months	of	2014,	U.S.	companies	announced
+1,550	deals	valued	at	about	$336.13	billion,	a	31	percent	increase	from	the
+same	period	the	prior	year,	and	the	highest	level	since	2000.
+The	acquisition	of	one	firm	by	another	is,	of	course,	an	investment	made
+under	uncertainty,	and	the	basic	principles	of	valuation	apply.	One	firm
+should	acquire	another	only	if	doing	so	generates	a	positive	net	present
+value	for	the	shareholders	of	the	acquiring	firm.	However,	because	the	NPV
+of	an	acquisition	candidate	can	be	difficult	to	determine,	mergers	and
+acquisitions,	or	M&A	activities,	are	interesting	topics	in	their	own	right.
+Some	of	the	special	problems	that	come	up	in	this	area	of	finance	include
+the	following:
+1.	The	benefits	from	acquisitions	can	depend	on	such	things	as	strategic
+fits.	Strategic	fits	are	difficult	to	define	precisely,	and	it	is	not	easy	to
+estimate	the	value	of	strategic	fits	using	discounted	cash	flow
+techniques.
+2.	There	can	be	complex	accounting,	tax,	and	legal	effects
+that	must	be	taken	into	account	when	one	firm	is
+acquired	by	another.
+3.	Acquisitions	are	an	important	control	device	for	shareholders.	Some
+acquisitions	are	a	consequence	of	an	underlying	conflict	between	the
+interests	of	existing	managers	and	those	of	shareholders.	Agreeing	to	be
+acquired	by	another	firm	is	one	way	that	shareholders	can	remove
+existing	managers.
+4.	Mergers	and	acquisitions	sometimes	involve	“unfriendly”	transactions.
+In	such	cases,	when	one	firm	attempts	to	acquire	another,	the	activity
+does	not	always	confine	itself	to	quiet,	genteel	negotiations.	The	soughtafter	firm	often	resists	takeover	and	may	resort	to	defensive	tactics	with
+exotic	names	such	as	poison	pills,	greenmail,	and	white	knights.
+We	discuss	these	and	other	issues	associated	with	mergers	in	the	sections
+that	follow.	We	begin	by	introducing	the	basic	legal,	accounting,	and	tax
+aspects	of	acquisitions.
+26.1
+	The	Legal	Forms	of	Acquisitions
+There	are	three	basic	legal	procedures	that	one	firm	can	use	to	acquire
+another	firm:
+1.	Merger	or	consolidation.
+2.	Acquisition	of	stock.
+3.	Acquisition	of	assets.
+Although	these	forms	are	different	from	a	legal	standpoint,	the	financial
+press	frequently	does	not	distinguish	between	them.	The	term
+merger
+	is
+often	used	regardless	of	the	actual	form	of	the	acquisition.
+In	our	discussion,	we	will	frequently	refer	to	the	acquiring	firm	as	the
+bidder.
+	This	is	the	company	that	offers	to	distribute	cash	or	securities	to
+obtain	the	stock	or	assets	of	another	company.	The	firm	that	is	sought	(and
+perhaps	acquired)	is	often	called	the
+target	firm.
+	The	cash	or	securities
+offered	to	the	target	firm	are	the
+consideration
+	in	the	acquisition.
+MERGER	OR	CONSOLIDATION
+A
+merger
+	is	the	complete	absorption	of	one	firm	by	another.	The	acquiring
+firm	retains	its	name	and	its	identity,	and	it	acquires	all	the	assets	and
+liabilities	of	the	acquired	firm.	After	a	merger,	the	acquired	firm	ceases	to
+exist	as	a	separate	business	entity.
+merger
+The	complete	absorption	of	one	company	by	another,	wherein	the	acquiring	firm	retains	its	identity
+and	the	acquired	firm	ceases	to	exist	as	a	separate	entity.
+A
+consolidation
+	is	the	same	as	a	merger	except	that	an	entirely	new	firm
+is	created.	In	a	consolidation,	both	the	acquiring	firm	and	the	acquired	firm
+terminate	their	previous	legal	existence	and	become	part	of	a	new	firm.	For
+this	reason,	the	distinction	between	the	acquiring	and	the	acquired	firm	is
+not	as	important	in	a	consolidation	as	it	is	in	a	merger.
+consolidation
+Page	864
+A	merger	in	which	an	entirely	new	firm	is	created	and	both	the	acquired	and	acquiring	firms	cease	to
+exist.
+The	rules	for	mergers	and	consolidations	are	basically	the	same.
+Acquisition	by	merger	or	consolidation	results	in	a	combination	of	the
+assets	and	liabilities	of	acquired	and	acquiring	firms;	the	only	difference
+lies	in	whether	or	not	a	new	firm	is	created.	We	will	henceforth	use	the	term
+merger
+	to	refer	generically	to	both	mergers	and	consolidations.
+There	are	some	advantages	and	some	disadvantages	to	using	a	merger	to
+acquire	a	firm:
+1. A	primary	advantage	is	that	a	merger	is	legally	simple	and	does	not
+cost	as	much	as	other	forms	of	acquisition.	The	reason	is	that	the	firms
+simply	agree	to	combine	their	entire	operations.	Thus,	for	example,
+there	is	no	need	to	transfer	title	to	individual	assets	of	the	acquired	firm
+to	the	acquiring	firm.
+2. A	primary	disadvantage	is	that	a	merger	must	be
+approved	by	a	vote	of	the	stockholders	of	each	firm.
+1
+Typically,	two-thirds	(or	even	more)	of	the	share	votes
+are	required	for	approval.	Obtaining	the	necessary	votes	can	be	timeconsuming	and	difficult.	Furthermore,	as	we	discuss	in	greater	detail	a
+bit	later,	the	cooperation	of	the	target	firm’s	existing	management	is
+almost	a	necessity	for	a	merger.	This	cooperation	may	not	be	easily	or
+cheaply	obtained.
+ACQUISITION	OF	STOCK
+A	second	way	to	acquire	another	firm	is	to	simply	purchase	the	firm’s
+voting	stock	with	an	exchange	of	cash,	shares	of	stock,	or	other	securities.
+This	process	will	often	start	as	a	private	offer	from	the	management	of	one
+firm	to	that	of	another.
+Regardless	of	how	it	starts,	at	some	point	the	offer	is	taken	directly	to	the
+target	firm’s	stockholders.	This	can	be	accomplished	by	a	tender	offer.	A
+tender	offer
+	is	a	public	offer	to	buy	shares.	It	is	made	by	one	firm	directly
+to	the	shareholders	of	another	firm.
+tender	offer
+A	public	offer	by	one	firm	to	directly	buy	the	shares	of	another	firm.
+Those	shareholders	who	choose	to	accept	the	offer	tender	their	shares	by
+exchanging	them	for	cash	or	securities	(or	both),	depending	on	the	offer.	A
+tender	offer	is	frequently	contingent	on	the	bidder’s	obtaining	some
+percentage	of	the	total	voting	shares.	If	not	enough	shares	are	tendered,	then
+the	offer	might	be	withdrawn	or	reformulated.
+The	tender	offer	is	communicated	to	the	target	firm’s	shareholders	by
+public	announcements	such	as	those	made	in	newspaper	advertisements.
+Sometimes,	a	general	mailing	is	used	in	a	tender	offer.	This	is	not	common,
+however,	because	a	general	mailing	requires	the	names	and	addresses	of	the
+stockholders	of	record.	Obtaining	such	a	list	without	the	target	firm’s
+cooperation	is	not	easy.
+The	following	are	some	factors	involved	in	choosing	between	an
+acquisition	by	stock	and	a	merger:
+For	up-to-date	information	about	happenings	in	the	world	of	M&A,	go	to
+www.marketwatch.com
+,
+then	type	“merger”	into	its	search	option.
+1. In	an	acquisition	by	stock,	no	shareholder	meetings	have	to	be	held	and
+no	vote	is	required.	If	the	shareholders	of	the	target	firm	don’t	like	the
+offer,	they	are	not	required	to	accept	it	and	need	not	tender	their	shares.
+2. In	an	acquisition	by	stock,	the	bidding	firm	can	deal	directly	with	the
+shareholders	of	the	target	firm	by	using	a	tender	offer.	The	target	firm’s
+management	and	board	of	directors	can	be	bypassed.
+3. Acquisition	is	occasionally	unfriendly.	In	such	cases,	a	stock
+acquisition	is	used	in	an	effort	to	circumvent	the	target	firm’s
+management,	which	is	usually	actively	resisting	acquisition.	Resistance
+by	the	target	firm’s	management	often	makes	the	cost	of	acquisition	by
+stock	higher	than	the	cost	of	a	merger.
+4. Frequently,	a	significant	minority	of	shareholders	will	hold	out	in	a
+tender	offer.	The	target	firm	cannot	be	completely	absorbed	when	this
+happens,	and	this	may	delay	realization	of	the	merger	benefits	or	may
+be	costly	in	some	other	way.	For	example,	if	the	bidder	ends	up	with
+less	than	80	percent	of	the	target	firm’s	shares,	it	must	pay	tax	on	20	to
+30	percent	of	any	dividends	paid	by	the	target	firm	to	the	bidder.
+5. Complete	absorption	of	one	firm	by	another	requires	a	merger.	Many
+Page	865
+acquisitions	by	stock	are	followed	up	with	a	formal	merger	later.
+ACQUISITION	OF	ASSETS
+A	firm	can	effectively	acquire	another	firm	by	buying	most	or	all	of	its
+assets.	This	accomplishes	the	same	thing	as	buying	the	company.	In	this
+case,	however,	the	target	firm	will
+not	necessarily	cease	to
+exist;	it	will	have	just	sold	off	its	assets.	The	“shell”	will
+still	exist	unless	its	stockholders	choose	to	dissolve	it.
+This	type	of	acquisition	requires	a	formal	vote	of	the	shareholders	of	the
+selling	firm.	One	advantage	to	this	approach	is	that	there	is	no	problem	with
+minority	shareholders	holding	out.	However,	acquisition	of	assets	may
+involve	transferring	titles	to	individual	assets.	The	legal	process	of
+transferring	assets	can	be	costly.
+ACQUISITION	CLASSIFICATIONS
+Financial	analysts	typically	classify	acquisitions	into	three	types:
+1.
+Horizontal	acquisition:
+	This	is	an	acquisition	of	a	firm	in	the	same
+industry	as	the	bidder.	For	example,	in	March	2014,	Men’s	Wearhouse
+announced	that	it	was	acquiring	competitor	Jos.	A.	Bank.	And	in
+February	2014,	pharmaceutical	company	Actavis	announced	that	it	was
+purchasing	rival	pharmaceutical	company	Forest	Laboratories.
+2.
+Vertical	acquisition:
+	A	vertical	acquisition	involves	firms	at	different
+steps	of	the	production	process.	For	example,	in	early	2014,	Microsoft’s
+acquisition	of	Nokia	was	completed.	Microsoft	purchased	Nokia	at	least
+in	part	to	ensure	that	Nokia’s	phones	would	continue	to	use	Microsoft’s
+mobile	software.
+3.
+Conglomerate	acquisition:
+	When	the	bidder	and	the	target	firm	are	in
+unrelated	lines	of	business,	the	merger	is	called	a	conglomerate
+acquisition.	Conglomerate	acquisitions	are	popular	in	the	technology
+area.	For	example,	by	2014,	Google	had	acquired	more	than	150
+companies	since	2003.	So,	while	you	may	be	familiar	with	Google’s
+Android	OS	for	cell	phones,	you	may	not	be	aware	that	Google
+acquired	Android	in	2005.
+
+Page	866
+Got	the	urge	to	merge?	See
+www.firstlist.com
+	and
+www.mergernetwork.com
+	for	ideas.
+A	NOTE	ABOUT	TAKEOVERS
+Takeover
+	is	a	general	and	imprecise	term	referring	to	the	transfer	of	control
+of	a	firm	from	one	group	of	shareholders	to	another.	A	takeover	thus	occurs
+whenever	one	group	takes	control	from	another.
+2
+	This	can	occur	through
+any	one	of	three	means:	acquisitions,	proxy	contests,	and	going-private
+transactions.	Thus,	takeovers	encompass	a	broader	set	of	activities	than	just
+acquisitions.	These	activities	can	be	depicted	as	follows:
+As	we	have	mentioned	before,	a	takeover	achieved	by	acquisition	will
+occur	by	merger,	tender	offer,	or	purchase	of	assets.	In	mergers	and	tender
+offers,	the	bidder	buys	the	voting	common	stock	of	the	target	firm.
+Takeovers	can	also	occur	with	proxy	contests.
+Proxy	contests
+	occur
+when	a	group	attempts	to	gain	controlling	seats	on	the	board	of	directors	by
+voting	in	new	directors.	A	proxy	is	the	right	to	cast	someone	else’s	votes.	In
+a	proxy	contest,	proxies	are	solicited	by	an	unhappy	group	of	shareholders
+from	the	rest	of	the	shareholders.
+proxy	contest
+An	attempt	to	gain	control	of	a	firm	by	soliciting	a	sufficient	number	of	stockholder	votes	to	replace
+existing	management.
+In
+going-private	transactions
+,	all	of	the	equity	shares	of
+a	public	firm	are	purchased	by	a	small	group	of	investors.
+Usually,	the	group	includes	members	of	incumbent
+management	and	some	outside	investors.	Such	transactions	have	come	to	be
+known	generically	as
+leveraged	buyouts	(LBOs)
+	because	a	large
+percentage	of	the	money	needed	to	buy	up	the	stock	is	usually	borrowed.
+Such	transactions	are	also	termed
+management	buyouts	(MBOs)
+	when
+existing	management	is	heavily	involved.	The	shares	of	the	firm	are
+delisted	from	stock	exchanges	and	can	no	longer	be	purchased	in	the	open
+market.
+going-private	transactions
+Transactions	in	which	all	publicly	owned	stock	in	a	firm	is	replaced	with	complete	equity	ownership
+by	a	private	group.
+leveraged	buyouts	(LBOs)
+Going-private	transactions	in	which	a	large	percentage	of	the	money	used	to	buy	the	stock	is
+borrowed.	Often	incumbent	management	is	involved.
+LBOs	have	become	increasingly	common,	and	some	recent	ones	have
+been	quite	large.	For	example,	one	of	the	largest	cash	acquisitions	in	history
+(and	possibly	the	single	largest	private	transaction	ever	of	any	kind)	was	the
+2007	LBO	of	TXU	Corp.,	the	energy	giant.	The	acquisition	price	in	that
+buyout	was	an	astonishing	$32	billion.	In	that	LBO,	as	with	most	of	the
+large	ones,	much	of	the	financing	came	from	junk	bond	sales	(see
+Chapter	7
+for	a	discussion	of	junk	bonds).
+ALTERNATIVES	TO	MERGER
+Firms	don’t	have	to	merge	to	combine	their	efforts.	At	a	minimum,	two	(or
+more)	firms	can	simply	agree	to	work	together.	They	can	sell	each	other’s
+products,	perhaps	under	different	brand	names,	or	jointly	develop	a	new
+product	or	technology.	Firms	will	frequently	establish	a
+strategic	alliance
+,
+which	is	usually	a	formal	agreement	to	cooperate	in	pursuit	of	a	joint	goal.
+An	even	more	formal	arrangement	is	a
+joint	venture
+,	which	commonly
+involves	two	firms	putting	up	the	money	to	establish	a	new	firm.	For
+example,	Verizon	Wireless	was	originally	a	joint	venture	between	Verizon
+Communications	and	Vodafone.
+strategic	alliance
+Agreement	between	firms	to	cooperate	in	pursuit	of	a	joint	goal.
+joint	venture
+Typically	an	agreement	between	firms	to	create	a	separate,	co-owned	entity	established	to	pursue	a
+joint	goal.
+Concept	Questions
+26.1a
+ What	is	a	merger?	How	does	a	merger	differ	from	other
+acquisition	forms?
+26.1b
+ What	is	a	takeover?
+Page	867
+26.2
+	Taxes	and	Acquisitions
+If	one	firm	buys	another	firm,	the	transaction	may	be	taxable	or	tax-free.	In
+a
+taxable	acquisition
+,	the	shareholders	of	the	target	firm	are	considered	to
+have	sold	their	shares,	and	they	will	have	capital	gains	or	losses	that	will	be
+taxed.	In	a
+tax-free	acquisition
+,	the	acquisition	is	considered	an	exchange
+instead	of	a	sale,	so	no	capital	gain	or	loss	occurs	at	the	time	of	the
+transaction.
+DETERMINANTS	OF	TAX	STATUS
+The	general	requirements	for	tax-free	status	are	that	the	acquisition	be	for	a
+business	purpose,	and	not	to	avoid	taxes,	and	that	there	be	a	continuity	of
+equity	interest.	In	other	words,	the	stockholders	in	the	target	firm	must
+retain	an	equity	interest	in	the	bidder.
+The	specific	requirements	for	a	tax-free	acquisition	depend	on	the	legal
+form	of	the	acquisition;	but,	in	general,	if	the	buying	firm	offers	the	selling
+firm	cash	for	its	equity,	it	will	be	a	taxable	acquisition.	If	shares	of	stock	are
+offered,	the	transaction	will	generally	be	a	tax-free	acquisition.
+In	a	tax-free	acquisition,	the	selling	shareholders	are	considered	to	have
+exchanged	their	old	shares	for	new	ones	of	equal	value,	so	that	no	capital
+gains	or	losses	are	experienced.
+TAXABLE	VERSUS	TAX-FREE
+ACQUISITIONS
+There	are	two	factors	to	consider	when	comparing	a	tax-free	acquisition
+and	a	taxable	acquisition:	the	capital	gains	effect	and	the	write-up	effect.
+The
+capital	gains	effect
+	refers	to	the	fact	that	the	target	firm’s	shareholders
+may	have	to	pay	capital	gains	taxes	in	a	taxable	acquisition.	They	may
+demand	a	higher	price	as	compensation,	thereby	increasing	the	cost	of	the
+merger.	This	is	a	cost	of	a	taxable	acquisition.
+The	tax	status	of	an	acquisition	also	affects	the	appraised	value	of	the
+assets	of	the	selling	firm.	In	a	taxable	acquisition,	the	assets	of	the	selling
+firm	are	revalued	or	“written	up”	from	their	historic	book	value	to	their
+estimated	current	market	value.	This	is	the
+write-up	effect
+,	and	it	is
+important	because	it	means	that	the	depreciation	expense	on	the	acquired
+firm’s	assets	can	be	increased	in	taxable	acquisitions.	Remember	that	an
+increase	in	depreciation	is	a	noncash	expense,	but	it	has	the	desirable	effect
+of	reducing	taxes.
+The	benefit	from	the	write-up	effect	was	sharply	curtailed	by	the	Tax
+Reform	Act	of	1986.	The	reason	is	that	the	increase	in	value	from	writing
+up	the	assets	is	now	considered	a	taxable	gain.	Before	this	change,	taxable
+mergers	were	much	more	attractive	because	the	write-up	was	not	taxed.
+Concept	Questions
+26.2a
+ What	factors	influence	the	choice	between	a	taxable	and	a	taxfree	acquisition?
+26.2b
+ Under	current	tax	law,	why	are	taxable	acquisitions	less
+attractive	than	they	once	were?
+26.3
+	Accounting	for	Acquisitions
+In	2001,	the	Federal	Accounting	Standards	Board	(FASB)	determined	that
+the	buyer	had	to	treat	all	acquisitions	under	the
+purchase	accounting
+method.
+	Prior	to	2001,	firms	were	allowed	to	choose	from	more	than	one
+method.	In	all	of	this,	keep	in	mind	that	we	are	examining	purely
+accounting-related	issues.	How	a	merger	is	treated	for	financial	reporting
+purposes	has	no	cash	flow	consequences.
+THE	PURCHASE	METHOD
+The
+purchase	accounting	method
+	of	reporting	acquisitions	requires	that	the
+assets	of	the	target	firm	be	reported	at	their	fair	market	value	on	the	books
+of	the	bidder.	With	this	method,	an	asset	called
+goodwill
+	is	created	for
+accounting	purposes.	Goodwill	is	the	difference	between	the	purchase	price
+and	the	estimated	fair	market	value	of	the	net	assets	(assets	less	liabilities)
+acquired.
+To	illustrate,	suppose	Firm	A	acquires	Firm	B,	thereby	creating	a	new
+firm,	AB.	The	balance	sheets	for	the	two	firms	on	the	date	of	the	acquisition
+are	shown	in
+Table	26.1
+.	Suppose	Firm	A	pays
+$18	million
+	in	cash	for	Firm
+B.	The	money	is	raised	by	borrowing	the	full	amount.	The	net	fixed	assets
+of	Firm	B,	which	are	carried	on	the	books	at
+$8	million
+,	are	appraised	at
+$14	million	fair	market	value.	Because	the	working	capital	is
+$2	million
+,
+Page	868
+the	balance	sheet	assets	are	worth	$16	million.	Firm	A	thus	pays
+$2	million
+in	excess	of	the	estimated	market	value	of	these	net	assets.	This	amount	is
+the	goodwill.
+3
+TABLE	26.1
+Accounting	for	Acquisitions:	Purchase	(in	Millions)
+The	last	balance	sheet	in
+Table	26.1
+	shows	what	the	new	firm	looks	like
+under	purchase	accounting.	Notice	that:
+1. The	total	assets	of	Firm	AB	increase	to
+$38	million
+.	The	fixed	assets
+increase	to
+$30	million
+.	This	is	the	sum	of	the	fixed	assets	of	Firm	A
+and	the	revalued	fixed	assets	of	Firm	B	(
+$16	million
+	+	14	million	=
+$30
+million
+).
+2. The
+$2	million
+	excess	of	the	purchase	price	over	the	fair	market	value
+is	reported	as	goodwill	on	the	balance	sheet.
+4
+MORE	ABOUT	GOODWILL
+As	we	just	discussed,	the	purchase	method	generally	leads	to	the	creation	of
+an	intangible	asset	called	goodwill.	Pre-2001	guidelines	required	firms	to
+amortize	this	goodwill,	meaning	that	a	portion	of	it	was	deducted	as	an
+expense	every	year	over	some	period	of	time.	In	essence,	the	goodwill,	like
+any	asset,	had	to	be	depreciated	until	it	was	completely	written	off.
+Despite	the	cash	flow	irrelevance	of	goodwill	amortization,	FASB’s
+decision	to	require	purchase	accounting	caused	a	great	deal	of	protest,	much
+of	it	due	to	the	treatment	of	goodwill	and	its	impact	on	reported	earnings.
+As	a	compromise,	in	2001	FASB	eliminated	the	requirement	that	goodwill
+be	amortized	and	put	in	place	a	new	rule.	In	essence,	the	new	rule	says	that
+Page	869
+each	year	firms	must	assess	the	value	of	the	goodwill	on	their	balance
+sheets.	If	the	value	has	gone	down	(or	become	“impaired”	in	accountingspeak),	the	firm	must	deduct	the	decrease;	otherwise,	no	amortization	is
+required.
+Concept	Questions
+26.3a
+ What	is	“goodwill”?
+26.3b
+ What	happens	to	goodwill	if	the	value	of	the	acquisition	declines
+over	time?
+26.4
+	Gains	from	Acquisitions
+To	determine	the	gains	from	an	acquisition,	we	need	to	first
+identify	the	relevant	incremental	cash	flows,	or,	more	generally,	the	source
+of	value.	In	the	broadest	sense,	acquiring	another	firm	makes	sense	only	if
+there	is	some	concrete	reason	to	believe	that	the	target	firm	will	somehow
+be	worth	more	in	our	hands	than	it	is	worth	now.	As	we	will	see,	there	are	a
+number	of	reasons	why	this	might	be	so.
+Try
+www.thedeal.com
+	for	current	news	about	mergers.
+SYNERGY
+Suppose	Firm	A	is	contemplating	acquiring	Firm	B.	The	acquisition	will	be
+beneficial	if	the	combined	firm	will	have	greater	value	than	the	sum	of	the
+values	of	the	separate	firms.	If	we	let
+V
+AB
+	stand	for	the	value	of	the	merged
+firm,	then	the	merger	makes	sense	only	if:
+V
+AB
+	>
+V
+A
+	+
+V
+B
+where
+V
+A
+	and
+V
+B
+	are	the	separate	values.	A	successful	merger	thus	requires
+that	the	value	of	the	whole	exceed	the	sum	of	the	parts.
+The	difference	between	the	value	of	the	combined	firm	and	the	sum	of
+the	values	of	the	firms	as	separate	entities	is	the	incremental	net	gain	from
+the	acquisition,	Δ
+V
+:
+Δ
+V
+	=
+V
+AB
+	−	(
+V
+A
+	+
+V
+B
+)
+When	Δ
+V
+	is	positive,	the	acquisition	is	said	to	generate
+synergy
+.	For
+example,	when	Comcast	announced	its	intention	to	acquire	Time	Warner
+Cable	in	early	2104,	the	company	estimated	that	the	savings	in	operating
+expenses	would	be	$750	million	the	first	year	and	would	eventually	reach
+$1.5	billion.
+synergy
+The	positive	incremental	net	gain	associated	with	the	combination	of	two	firms	through	a	merger	or
+acquisition.
+If	Firm	A	buys	Firm	B,	it	gets	a	company	worth
+V
+B
+	plus	the	incremental
+gain,	Δ
+V
+.	The	value	of	Firm	B	to	Firm	A	(
+)	is	thus:
+Value	of	Firm	B	to	Firm
+We	place	an	*	on
+	to	emphasize	that	we	are	referring	to	the	value	of	Firm
+B	to	Firm	A,	not	the	value	of	Firm	B	as	a	separate	entity.
+	can	be	determined	in	two	steps:	(1)	estimating
+V
+B
+	and	(2)	estimating
+Δ
+V
+.	If	B	is	a	public	company,	then	its	market	value	as	an	independent	firm
+under	existing	management	(
+V
+B
+)	can	be	observed	directly.	If	Firm	B	is	not
+publicly	owned,	then	its	value	will	have	to	be	estimated	based	on	similar
+companies	that	are.	Either	way,	the	problem	of	determining	a	value	for
+requires	determining	a	value	for	Δ
+V
+.
+To	determine	the	incremental	value	of	an	acquisition,	we	need	to	know
+the	incremental	cash	flows.	These	are	the	cash	flows	for	the	combined	firm
+less	what	A	and	B	could	generate	separately.	In	other	words,	the
+incremental	cash	flow	for	evaluating	a	merger	is	the	difference	between	the
+cash	flow	of	the	combined	company	and	the	sum	of	the	cash	flows	for	the
+two	companies	considered	separately.	We	will	label	this	incremental	cash
+flow	as	ΔCF.
+EXAMPLE	26.1
+	Synergy
+Firms	A	and	B	are	competitors	with	very	similar	assets	and	business
+risks.	Both	are	all-equity	firms	with	aftertax	cash	flows	of	$10	per	year
+forever,	and	both	have	an	overall	cost	of	capital	of	10	percent.	Firm	A	is
+thinking	of	buying	Firm	B.	The	aftertax	cash	flow	from	the	merged	firm
+Page	870
+would	be	$21	per	year.	Does	the	merger	generate	synergy?	What	is
+?
+What	is	Δ
+V
+?
+The	merger	does	generate	synergy	because	the	cash
+flow	from	the	merged	firm	is	ΔCF	=	$1	greater	than	the
+sum	of	the	individual	cash	flows	($21	versus	$20).
+Assuming	the	risks	stay	the	same,	the	value	of	the	merged	firm	is
+$21/.10	=	$210.	Firms	A	and	B	are	each	worth	$10/.10	=	$100,	for	a	total
+of	$200.	The	incremental	gain	from	the	merger,	Δ
+V
+,	is	thus	$210	−	200	=
+$10.	The	total	value	of	Firm	B	to	Firm	A,
+,	is	$100	(the	value	of	B	as	a
+separate	company)	plus	$10	(the	incremental	gain),	or	$110.
+From	our	discussions	in	earlier	chapters,	we	know	that	the	incremental	cash
+flow,	ΔCF,	can	be	broken	down	into	four	parts:
+where	ΔRevenue	is	the	difference	in	revenues,	ΔCost	is	the	difference	in
+costs,	ΔTax	is	the	difference	in	taxes,	and	ΔCapital	requirements	is	the
+change	in	new	fixed	assets	and	net	working	capital.
+Based	on	this	breakdown,	the	merger	will	make	sense	only	if	one	or	more
+of	these	cash	flow	components	are	beneficially	affected	by	the	merger.	The
+possible	cash	flow	benefits	of	mergers	and	acquisitions	thus	fall	into	four
+basic	categories:	revenue	enhancement,	cost	reductions,	lower	taxes,	and
+reductions	in	capital	needs.
+REVENUE	ENHANCEMENT
+One	important	reason	for	an	acquisition	is	that	the	combined	firm	may
+generate	greater	revenues	than	two	separate	firms.	Increases	in	revenue	may
+come	from	marketing	gains,	strategic	benefits,	and	increases	in	market
+power.
+Marketing	Gains
+	It	is	frequently	claimed	that	mergers	and	acquisitions
+can	produce	greater	operating	revenues	from	improved	marketing.	For
+example,	improvements	might	be	made	in	the	following	areas:
+1.	Previously	ineffective	media	programming	and	advertising	efforts.
+2.	A	weak	existing	distribution	network.
+3.	An	unbalanced	product	mix.
+Page	871
+3.	An	unbalanced	product	mix.
+For	example,	in	May	2014,	Hillshire	Brands,	owner	of	such	brands	as
+Jimmy	Dean	and	Sara	Lee,	announced	the	acquisition	of	Pinnacle	Foods,
+owner	of	Duncan	Hines	and	Aunt	Jemima.	Hillshire	stated	that	the
+combined	company	would	have	an	enhanced	scale	and	reach,	particularly	in
+the	competitive	grocery	industry	(however,	despite	these	claimed	gains,	the
+deal	did	not	go	through!).
+Strategic	Benefits
+	Some	acquisitions	promise	a	strategic	advantage.	This
+is	an	opportunity	to	take	advantage	of	the	competitive	environment	if
+certain	things	occur	or,	more	generally,	to	enhance	management	flexibility
+with	regard	to	the	company’s	future	operations.	In	this	latter	sense,	a
+strategic	benefit	is	more	like	an	option	than	a	standard	investment
+opportunity.
+For	example,	suppose	a	computer	manufacturer	can	use	its	technology	to
+enter	other	businesses.	The	electronics	and	software	technology	from	the
+original	business	can	provide	opportunities	to	begin	manufacturing
+consumer	electronics	(think	Apple).
+The	word
+beachhead
+	has	been	used	in	describing	the	process	of	entering
+a	new	industry	to	exploit	perceived	opportunities.	The	beachhead	is	used	to
+spawn	new	opportunities	based	on	“intangible”	relationships.	One	example
+is	Procter	&	Gamble’s	initial	acquisition	of	the	Charmin	Paper	Company	as
+a	beachhead,	which	allowed	Procter	&	Gamble	to
+develop
+a	highly	interrelated	cluster	of	paper	products—disposable
+diapers,	paper	towels,	feminine	hygiene	products,	and
+bathroom	tissue.
+5
+Market	Power
+	One	firm	may	acquire	another	to	increase	its	market	share
+and	market	power.	In	such	mergers,	profits	can	be	enhanced	through	higher
+prices	and	reduced	competition	for	customers.	Of	course,	mergers	that
+substantially	reduce	competition	in	the	market	may	be	challenged	by	the
+U.S.	Department	of	Justice	or	the	Federal	Trade	Commission	on	antitrust
+grounds.
+COST	REDUCTIONS
+One	of	the	most	basic	reasons	to	merge	is	that	a	combined	firm	may	operate
+more	efficiently	than	two	separate	firms.	A	firm	can	achieve	greater
+Page	872
+operating	efficiency	in	several	different	ways	through	a	merger	or	an
+acquisition.
+Economies	of	Scale
+	Economies	of	scale	relate	to	the	average	cost	per	unit
+of	producing	goods	and	services.	If	the	per-unit	cost	of	production	falls	as
+the	level	of	production	increases,	then	an	economy	of	scale	exists:
+Frequently,	the	phrase
+spreading	overhead
+	is	used	in	connection	with
+economies	of	scale.	This	expression	refers	to	the	sharing	of	central	facilities
+such	as	corporate	headquarters,	top	management,	and	computer	services.
+For	example,	in	April	2008,	when	Delta	Air	Lines	and	Northwest	Airlines
+announced	a	merger	agreement,	the	companies	issued	a	statement	that	they
+expected	to	generate	cost	synergies	from	more	effective	aircraft	utilization,
+a	more	comprehensive	and	diversified	route	system,	and	savings	from
+reduced	overhead	and	improved	operational	efficiency.
+Economies	of	Vertical	Integration
+	Operating	economies	can	be	gained
+from	vertical	combinations	as	well	as	from	horizontal	combinations.	The
+main	purpose	of	vertical	acquisitions	is	to	make	it	easier	to	coordinate
+closely	related	operating	activities.	Benefits	from	vertical	integration	are
+probably	why	most	forest	product	firms	that	cut	timber	also	own	sawmills
+and	hauling	equipment.	Economies	of	vertical	integration	may	explain	why
+some	airline	companies	have	purchased	hotels	and	car	rental	companies.
+Technology	transfers	are	another	reason	for	vertical
+integration.	Very	frequently,	a	company	will	decide	that
+the	cheapest—and	fastest—way	to	acquire	another	firm’s
+technological	skills	is	to	simply	buy	the	firm.	For	obvious	reasons,	this
+rationale	is	particularly	common	in	high-tech	industries.
+Complementary	Resources
+	Some	firms	acquire	others	to	make	better	use
+of	existing	resources	or	to	provide	the	missing	ingredient	for	success.	Think
+of	a	ski	equipment	store	that	could	merge	with	a	tennis	equipment	store	to
+produce	more	even	sales	over	both	the	winter	and	summer	seasons,	thereby
+better	using	store	capacity.
+LOWER	TAXES
+Tax	gains	are	a	powerful	incentive	for	some	acquisitions.	The	possible	tax
+gains	from	an	acquisition	include	the	following:
+1.	The	use	of	tax	losses.
+2.	The	use	of	unused	debt	capacity.
+3.	The	use	of	surplus	funds.
+4.	The	ability	to	write	up	the	value	of	depreciable	assets.
+Net	Operating	Losses
+	Firms	that	lose	money	on	a	pretax	basis	will	not
+pay	taxes.	Such	firms	can	end	up	with	tax	losses	they	cannot	use.	These	tax
+losses	are	referred	to	as
+net	operating	losses
+	(NOL).
+A	firm	with	net	operating	losses	may	be	an	attractive	merger	partner	for	a
+firm	with	significant	tax	liabilities.	Absent	any	other	effects,	the	combined
+firm	will	have	a	lower	tax	bill	than	the	two	firms	considered	separately.
+This	is	a	good	example	of	how	a	firm	can	be	more	valuable	merged	than
+standing	alone.
+There	are	two	qualifications	to	our	NOL	discussion:
+1.	Federal	tax	laws	permit	firms	that	experience	periods	of	profit	and	loss
+to	even	things	out	through	loss	carry-back	and	carry-forward	provisions.
+A	firm	that	has	been	profitable	in	the	past	but	has	a	loss	in	the	current
+year	can	get	refunds	of	income	taxes	paid	in	the	past	three	years.	After
+that,	losses	can	be	carried	forward	for	up	to	20	years.	Thus,	a	merger	to
+exploit	unused	tax	shields	must	offer	tax	savings	over	and	above	what
+can	be	accomplished	by	firms	via	carry-overs.
+6
+2.	The	IRS	may	disallow	an	acquisition	if	the	principal	purpose	of	the
+acquisition	is	to	avoid	federal	tax	by	acquiring	a	deduction	or	credit	that
+would	not	otherwise	be	available.
+Page	873
+Unused	Debt	Capacity
+	Some	firms	do	not	use	as	much	debt	as	they	are
+able.	This	makes	them	potential	acquisition	candidates.	Adding	debt	can
+provide	important	tax	savings,	and	many	acquisitions	are	financed	with
+debt.	The	acquiring	company	can	deduct	interest	payments	on	the	newly
+created	debt	and	reduce	taxes.
+Surplus	Funds
+	Another	quirk	in	the	tax	laws	involves	surplus	funds.
+Consider	a	firm	that	has	free	cash	flow—cash	flow	available	after	all	taxes
+have	been	paid	and	after	all
+positive	net	present	value
+projects	have	been	financed.	In	such	a	situation,	aside	from
+purchasing	fixed-income	securities,	the	firm	has	several
+ways	to	spend	the	free	cash	flow,	including:
+1. Paying	dividends.
+2. Buying	back	its	own	shares.
+3. Acquiring	shares	in	another	firm.
+We	discussed	the	first	two	options	in	an	earlier	chapter.	We	saw	that	an
+extra	dividend	will	increase	the	income	tax	paid	by	some	investors.	A	share
+repurchase	will	reduce	the	taxes	paid	by	shareholders	as	compared	to
+paying	dividends,	but	this	is	not	a	legal	option	if	the	sole	purpose	is	to	avoid
+taxes	that	would	have	otherwise	been	paid	by	shareholders.
+To	avoid	these	problems,	the	firm	can	buy	another	firm.	By	doing	this,
+the	firm	avoids	the	tax	problem	associated	with	paying	a	dividend.	Also,	the
+dividends	received	from	the	purchased	firm	are	not	taxed	in	a	merger.
+Asset	Write-Ups
+	We	have	previously	observed	that,	in	a	taxable
+acquisition,	the	assets	of	the	acquired	firm	can	be	revalued.	If	the	value	of
+the	assets	increases,	tax	deductions	for	depreciation	will	be	a	benefit;	but
+this	benefit	will	usually	be	more	than	offset	by	taxes	due	on	the	write-up.
+REDUCTIONS	IN	CAPITAL	NEEDS
+All	firms	must	invest	in	working	capital	and	fixed	assets	to	sustain	an
+efficient	level	of	operating	activity.	A	merger	may	reduce	the	combined
+investments	needed	by	the	two	firms.	For	example,	Firm	A	may	need	to
+expand	its	manufacturing	facilities,	whereas	Firm	B	may	have	significant
+excess	capacity.	It	may	be	much	cheaper	for	Firm	A	to	buy	Firm	B	than	to
+build	from	scratch.
+Page	874
+In	addition,	acquiring	firms	may	see	ways	of	more	effectively	managing
+existing	assets.	This	can	occur	with	a	reduction	in	working	capital	resulting
+from	more	efficient	handling	of	cash,	accounts	receivable,	and	inventory.
+Finally,	the	acquiring	firm	may	also	sell	off	certain	assets	that	are	not
+needed	in	the	combined	firm.
+Firms	will	often	cite	many	reasons	for	merging.	Typically,	when	firms
+agree	to	merge,	they	generate	a	list	of	the	economic	benefits	that
+shareholders	can	expect	from	the	merger.	For	example,	the	U.S.	Steel	and
+Marathon	Oil	agreement	stated	(emphasis	added):
+U.S.	Steel	believes	that	the	acquisition	of	Marathon	provides	U.S.	Steel	with	an	attractive
+opportunity	to
+diversify
+	into	the	energy	business.	Reasons	for	the	merger	include,	but	are	not
+limited	to,	the	facts	that	consummation	of	the	merger	will	allow	U.S.	Steel	to	consolidate
+Marathon	in	U.S.	Steel’s	federal
+income	tax	return
+,	will	also	contribute	to
+greater	efficiency
+,
+and	will	enhance	the
+ability	to	manage	capital
+	by	permitting	movements	of	cash	between	U.S.
+Steel	and	Marathon.	Additionally,	the	merger	will
+eliminate	the	possibility	of	conflicts	of
+interest
+	between	the	interests	of	minority	and	majority	shareholders	and	will
+enhance
+management	flexibility
+.	The	acquisition	will	provide	Marathon	shareholders	with	a	substantial
+premium	over	historic	market	prices	for	their	shares.	However,	[Marathon]	shareholders	will
+no	longer	continue	to	share	in	the	future	prospects	of	the	company.
+The	more	recent	merger	of	satellite	radio	providers	XM	and	Sirius	is
+another	good	example.	In	the	middle	of	2008,	the	market	capitalization	of
+Sirius	was	about	$3.2	billion	and	the	market	capitalization	of	XM	Radio
+was	about	$2.5	billion.	Analysts	estimated	that	the	merger	could	result	in
+cost	savings	with	a	present	value	of	between	$3	to	$7	billion,
+potentially
+more	than	the	combined	market	cap	of	the	two	companies!
+Why	were	the	estimated	savings	so	large?	The	companies
+gave	a	lot	of	reasons:
+1. Operating	cost	savings	across	the	board:
+a.
+ General	and	administrative	costs.
+b.
+ Sales	and	marketing	costs.
+c.
+ Subscriber	acquisition	costs.
+d.
+ Research	and	development	costs.
+e.
+ Product	development,	manufacturing,	and	inventory	costs.
+f.
+ Programming	operating	infrastructure.
+2. Additional	shareholder	value	in	the	longer	term	due	to	savings	on
+satellite	fleet,	terrestrial	infrastructure,	and	other	capital	cost
+redundancies.
+3. Greater	appeal	to	large	national	advertisers	that	have	a	significant
+number	of	media	alternatives.
+4. Advertising	sales	expense	savings.
+5. Enhanced	operating	leverage	resulting	in	accelerated	free	cash	flow
+generation.
+AVOIDING	MISTAKES
+Evaluating	the	benefit	of	a	potential	acquisition	is	more	difficult	than	a
+standard	capital	budgeting	analysis	because	so	much	of	the	value	can	come
+from	intangible,	or	otherwise	difficult	to	quantify,	benefits.	Consequently,
+there	is	a	great	deal	of	room	for	error.	Here	are	some	general	rules	that
+should	be	remembered:
+1.
+Do	not	ignore	market	values:
+	There	is	no	point	to,	and	little	gain	from,
+estimating	the	value	of	a	publicly	traded	firm	when	that	value	can	be
+directly	observed.	The	current	market	value	represents	a	consensus
+opinion	of	investors	concerning	the	firm’s	value	(under	existing
+management).	Use	this	value	as	a	starting	point.	If	the	firm	is	not
+publicly	held,	then	the	place	to	start	is	with	similar	firms	that	are
+publicly	held.
+2.
+Estimate	only	incremental	cash	flows:
+	It	is	important	to	estimate	the
+incremental	cash	flows	that	will	result	from	the	acquisition.	Only
+incremental	cash	flows	from	an	acquisition	will	add	value	to	the
+acquiring	firm.	Acquisition	analysis	should	thus	focus	only	on	the
+newly	created,	incremental	cash	flows	from	the	proposed	acquisition.
+3.
+Use	the	correct	discount	rate:
+	The	discount	rate	should	be	the	required
+rate	of	return	for	the	incremental	cash	flows	associated	with	the
+acquisition.	It	should	reflect	the	risk	associated	with	the	use	of	funds,
+not	the	source.	In	particular,	if	Firm	A	is	acquiring	Firm	B,	then	Firm
+A’s	cost	of	capital	is	not	particularly	relevant.	Firm	B’s	cost	of	capital	is
+a	much	more	appropriate	discount	rate	because	it	reflects	the	risk	of
+Firm	B’s	cash	flows.
+4.
+Be	aware	of	transactions	costs:
+	An	acquisition	may	involve	substantial
+(and	sometimes	astounding)	transactions	costs.	These	will	include	fees
+to	investment	bankers,	legal	fees,	and	disclosure	requirements.
+A	NOTE	ABOUT	INEFFICIENT	MANAGEMENT
+Page	875
+There	are	firms	whose	value	could	be	increased	with	a	change	in
+management.	These	are	firms	that	are	poorly	run	or	otherwise	do	not
+efficiently	use	their	assets	to	create	shareholder	value.	Mergers	are	a	means
+of	replacing	management	in	such	cases.
+The	fact	that	a	firm	might	benefit	from	a	change	in	management	does	not
+necessarily	mean	that	existing	management	is	dishonest,	incompetent,	or
+negligent.	Instead,	just	as	some	athletes	are	better	than	others,	so	might
+some	management	teams	be	better	at	running	a	business.	This	can	be
+particularly	true	during	times	of	technological	change	or	other
+periods	when
+innovations	in	business	practice	are	occurring.	In	any	case,
+to	the	extent	that	corporate	“raiders”	can	identify	poorly
+run	firms	or	firms	that,	for	other	reasons,	will	benefit	from
+a	change	in	management,	these	raiders	provide	a	valuable	service	to	target
+firm	shareholders	and	society	in	general.
+Concept	Questions
+26.4a
+ What	are	the	relevant	incremental	cash	flows	for	evaluating	a
+merger	candidate?
+26.4b
+ What	are	some	different	sources	of	gain	from	acquisitions?
+26.5
+	Some	Financial	Side	Effects	of	Acquisitions
+In	addition	to	the	various	possibilities	we	have	discussed	thus	far,	mergers
+can	have	some	purely	financial	side	effects—that	is,	things	that	occur
+regardless	of	whether	the	merger	makes	economic	sense	or	not.	Two	such
+effects	are	particularly	worth	mentioning:	EPS	growth	and	diversification.
+EPS	GROWTH
+An	acquisition	can	create	the	appearance	of	growth	in	earnings	per	share,	or
+EPS.	This	may	fool	investors	into	thinking	that	the	firm	is	doing	better	than
+it	really	is.	What	happens	is	easiest	to	see	with	an	example.
+Suppose	Global	Resources,	Ltd.,	acquires	Regional	Enterprises.	The
+financial	positions	of	Global	and	Regional	before	the	acquisition	are	shown
+in
+Table	26.2
+.	We	assume	that	the	merger	creates	no	additional	value,	so	the
+combined	firm	(Global	Resources	after	acquiring	Regional)	has	a	value	that
+Page	876
+is	equal	to	the	sum	of	the	values	of	the	two	firms	before	the	merger.
+Before	the	merger,	both	Global	and	Regional	have	100	shares
+outstanding.	However,	Global	sells	for
+$25	per	share
+,	versus	a	price	of
+$10
+per	share
+	for	Regional.	Global	therefore	acquires	Regional	by	exchanging	1
+of	its	shares	for	every	2.5	Regional	shares.	Because	there	are	100	shares	in
+Regional,	this	will	take	100/2.5	=	40	shares	in	all.
+After	the	merger,	Global	will	have	140	shares	outstanding,	and	several
+things	will	happen	(see	the	third	column	of
+Table	26.2
+):
+1. The	market	value	of	the	combined	firm	is
+$3,500
+.	This	is	equal	to	the
+sum	of	the	values	of	the	separate	firms	before	the	merger.	If	the	market
+is	“smart,”	it	will	realize	that	the	combined	firm	is	worth	the	sum	of	the
+values	of	the	separate	firms.
+TABLE	26.2
+Financial	Positions	of	Global	Resources	and	Regional	Enterprises
+Exchange	ratio:	1	share	in	Global	for	2.5	shares	in	Regional.
+2. The	earnings	per	share	of	the	merged	firm	are
+$1.43
+.
+The	acquisition	enables	Global	to	increase	its	earnings
+per	share	from	$1	to	$1.43,	an	increase	of	43	percent.
+3. Because	the	stock	price	of	Global	after	the	merger	is	the	same	as	that
+before	the	merger,	the	price–earnings	ratio	must	fall.	This	is	true	as	long
+as	the	market	is	smart	and	recognizes	that	the	total	market	value	has	not
+been	altered	by	the	merger.
+If	the	market	is	“fooled,”	it	might	mistake	the	43	percent	increase	in
+earnings	per	share	for	true	growth.	In	this	case,	the	price–earnings	ratio	of
+Global	may	not	fall	after	the	merger.	Suppose	the	price–earnings	ratio	of
+Global	remains	equal	to	25.	Because	the	combined	firm	has	earnings	of
+$200
+,	the	total	value	of	the	combined	firm	will	increase	to
+$5,000	(
+	=
+25
+	×
+$200)
+.	The	per-share	value	for	Global	will	increase	to
+$35.71	(
+=
+$5,000
+/
+140)
+.
+This	is	earnings	growth	magic.	Like	all	good	magic,	it	is	just	illusion.	For
+it	to	work,	the	shareholders	of	Global	and	Regional	must	receive	something
+for	nothing.	This,	of	course,	is	unlikely	with	so	simple	a	trick.
+DIVERSIFICATION
+Diversification	is	commonly	mentioned	as	a	benefit	of	a	merger.	We
+previously	noted	that	U.S.	Steel	included	diversification	as	a	benefit	in
+describing	its	acquisition	of	Marathon	Oil.	The	problem	is	that
+diversification	per	se	probably	does	not	create	value.
+Going	back	to
+Chapter	13
+,	recall	that	diversification	reduces
+unsystematic	risk.	We	also	saw	that	the	value	of	an	asset	depends	on	its
+systematic	risk,	and	systematic	risk	is	not	directly	affected	by
+diversification.	Because	the	unsystematic	risk	is	not	especially	important,
+there	is	no	particular	benefit	from	reducing	it.
+An	easy	way	to	see	why	diversification	isn’t	an	important	benefit	of	a
+merger	is	to	consider	someone	who	owned	stock	in	U.S.	Steel	and
+Marathon	Oil.	Such	a	stockholder	was	already	diversified	between	these
+two	investments.	The	merger	didn’t	do	anything	the	stockholders	couldn’t
+do	for	themselves.
+More	generally,	stockholders	can	get	all	the	diversification	they	want	by
+buying	stock	in	different	companies.	As	a	result,	they	won’t	pay	a	premium
+for	a	merged	company	just	for	the	benefit	of	diversification.
+By	the	way,	we	are	not	saying	that	U.S.	Steel	made	a	mistake.	At	the
+time	of	the	merger,	U.S.	Steel	was	a	cash-rich	company	(over	20	percent	of
+its	assets	were	in	the	form	of	cash	and	marketable	securities).	It	is	not
+uncommon	to	see	firms	with	surplus	cash	articulating	a	“need”	for
+diversification.
+Concept	Questions
+26.5a
+ Why	can	a	merger	create	the	appearance	of	earnings	growth?
+26.5b
+ Why	is	diversification	by	itself	not	a	good	reason	for	a	merger?
+Page	877
+26.6
+	The	Cost	of	an	Acquisition
+We’ve	discussed	some	of	the	benefits	of	acquisition.	We	now	need	to
+discuss	the	cost	of	a	merger.
+7
+	We	learned	earlier	that	the	net	incremental
+gain	from	a	merger	is:
+Δ
+V
+	=
+V
+AB
+	−	(
+V
+A
+	+
+V
+B
+)
+Also,	the	total	value	of	Firm	B	to	Firm	A,
+,	is:
+The	NPV	of	the	merger	is	therefore:
+To	illustrate,	suppose	we	have	the	following	premerger	information	for
+Firm	A	and	Firm	B:
+Both	of	these	firms	are	100	percent	equity.	You	estimate	that	the
+incremental	value	of	the	acquisition,	Δ
+V
+,	is	$100.
+The	board	of	Firm	B	has	indicated	that	it	will	agree	to	a	sale	if	the	price
+is	$150,	payable	in	cash	or	stock.	This	price	for	Firm	B	has	two	parts.	Firm
+B	is	worth	$100	as	a	stand-alone,	so	this	is	the	minimum	value	that	we
+could	assign	to	Firm	B.	The	second	part,	$50,	is	called	the	merger	premium,
+and	it	represents	the	amount	paid	above	the	stand-alone	value.
+Should	Firm	A	acquire	Firm	B?	Should	it	pay	in	cash	or	stock?	To
+answer,	we	need	to	determine	the	NPV	of	the	acquisition	under	both
+alternatives.	We	can	start	by	noting	that	the	value	of	Firm	B	to	Firm	A	is:
+The	total	value	received	by	A	as	a	result	of	buying	Firm	B	is	thus	$200.	The
+question	then	is:	How	much	does	Firm	A	have	to	give	up?	The	answer
+depends	on	whether	cash	or	stock	is	used	as	the	means	of	payment.
+Page	878
+CASE	I:	CASH	ACQUISITION
+The	cost	of	an	acquisition	when	cash	is	used	is	just	the	cash	itself.	So,	if
+Firm	A	pays	$150	in	cash	to	purchase	all	of	the	shares	of	Firm	B,	the	cost
+of	acquiring	Firm	B	is	$150.	The	NPV	of	a	cash	acquisition	is:
+The	acquisition	is	therefore	profitable.
+After	the	merger,	Firm	AB	will	still	have	25	shares	outstanding.	The
+value	of	Firm	A	after	the	merger	is:
+This	is	just	the	premerger	value	of	$500	plus	the	$50	NPV.	The	price	per
+share	after	the	merger	is	$550/25	=	$22,	representing	a	gain	of	$2	per	share.
+CASE	II:	STOCK	ACQUISITION
+Things	are	somewhat	more	complicated	when	stock	is	the	means	of
+payment.	In	a	cash	merger,	the	shareholders	in	B	receive	cash	for	their
+stock;	and,	as	in	the	U.S.	Steel–Marathon
+Oil	example,
+they	no	longer	participate	in	the	company.	Thus,	as	we
+have	seen,	the	cost	of	the	acquisition	in	this	case	is	the
+amount	of	cash	needed	to	pay	off	B’s	stockholders.
+In	a	stock	merger,	no	cash	actually	changes	hands.	Instead,	the
+shareholders	of	Firm	B	come	in	as	new	shareholders	in	the	merged	firm.
+The	value	of	the	merged	firm	in	this	case	will	be	equal	to	the	premerger
+values	of	Firms	A	and	B	plus	the	incremental	gain	from	the	merger,	Δ
+V
+:
+To	give	$150	worth	of	stock	for	Firm	B,	Firm	A	will	have	to	give	up
+$150/20	=	7.5	shares.	After	the	merger,	there	will	be	25	+	7.5	=	32.5	shares
+outstanding,	and	the	per-share	value	will	be	$700/32.5	=	$21.54.
+Notice	that	the	per-share	price	after	the	merger	is	lower	under	the	stock
+purchase	option.	The	reason	has	to	do	with	the	fact	that	B’s	shareholders
+own	stock	in	the	new	firm.
+It	appears	that	Firm	A	paid	$150	for	Firm	B.	However,	it	actually	paid
+more	than	that.	When	all	is	said	and	done,	B’s	stockholders	own	7.5	shares
+of	stock	in	the	merged	firm.	After	the	merger,	each	of	these	shares	is	worth
+$21.54.	The	total	value	of	the	consideration	received	by	B’s	stockholders	is
+thus	7.5	×	$21.54	=	$161.55.
+This	$161.55	is	the	true	cost	of	the	acquisition	because	it	is	what	the
+sellers	actually	end	up	receiving.	The	NPV	of	the	merger	to	Firm	A	is:
+We	can	check	this	by	noting	that	A	started	with	25	shares	worth	$20	each.
+The	gain	to	A	of	$38.45	works	out	to	be	$38.45/25	=	$1.54	per	share.	The
+value	of	the	stock	has	increased	to	$21.54,	as	we	calculated.
+When	we	compare	the	cash	acquisition	to	the	stock	acquisition,	we	see
+that	the	cash	acquisition	is	better	in	this	case,	because	Firm	A	gets	to	keep
+all	of	the	NPV	if	it	pays	in	cash.	If	it	pays	in	stock,	Firm	B’s	stockholders
+share	in	the	NPV	by	becoming	new	stockholders	in	A.
+CASH	VERSUS	COMMON	STOCK
+The	distinction	between	cash	and	common	stock	financing	in	a	merger	is	an
+important	one.	If	cash	is	used,	the	cost	of	an	acquisition	is	not	dependent	on
+the	acquisition	gains.	All	other	things	being	the	same,	if	common	stock	is
+used,	the	cost	is	higher	because	Firm	A’s	shareholders	must	share	the
+acquisition	gains	with	the	shareholders	of	Firm	B.	However,	if	the	NPV	of
+the	acquisition	is	negative,	then	the	loss	will	be	shared	between	the	two
+firms.
+Whether	a	firm	should	finance	an	acquisition	with	cash	or	with	shares	of
+stock	depends	on	several	factors,	including	the	following:
+1.
+Sharing	gains:
+	If	cash	is	used	to	finance	an	acquisition,	the	selling
+firm’s	shareholders	will	not	participate	in	the	potential	gains	from	the
+merger.	Of	course,	if	the	acquisition	is	not	a	success,	the	losses	will	not
+be	shared,	and	shareholders	of	the	acquiring	firm	will	be	worse	off	than
+if	stock	had	been	used.
+2.
+Taxes:
+	Acquisition	by	paying	cash	usually	results	in	a	taxable
+transaction.	Acquisition	by	exchanging	stock	is	generally	tax-free.
+3.
+Control:
+	Acquisition	by	paying	cash	does	not	affect	the	control	of	the
+acquiring	firm.	Acquisition	with	voting	shares	may	have	implications
+Page	879
+for	control	of	the	merged	firm.
+In	a	typical	year,	in	terms	of	the	total	number	of	deals,	cash
+financing	is	much	more	common	than	stock	financing.	The
+same	is	usually	true	based	on	the	total	dollar	values,	though
+the	difference	is	smaller.	The	reason	is	that	stock	financing	becomes	more
+common	if	we	look	at	very	large	deals.
+Concept	Questions
+26.6a
+ Why	does	the	true	cost	of	a	stock	acquisition	depend	on	the	gain
+from	the	merger?
+26.6b
+ What	are	some	important	factors	in	deciding	whether	to	use
+stock	or	cash	in	an	acquisition?
+26.7
+ Defensive	Tactics
+Target	firm	managers	frequently	resist	takeover	attempts.	Resistance
+usually	starts	with	press	releases	and	mailings	to	shareholders	that	present
+management’s	viewpoint.	It	can	eventually	lead	to	legal	action	and
+solicitation	of	competing	bids.	Managerial	action	to	defeat	a	takeover
+attempt	may	make	target	firm	shareholders	better	off	if	it	elicits	a	higher
+offer	premium	from	the	bidding	firm	or	another	firm.
+Of	course,	management	resistance	may	simply	reflect	pursuit	of	selfinterest	at	the	expense	of	shareholders.	This	is	a	controversial	subject.	At
+times,	management	resistance	has	greatly	increased	the	amount	ultimately
+received	by	shareholders.	At	other	times,	management	resistance	appears	to
+have	defeated	all	takeover	attempts	to	the	detriment	of	shareholders.
+In	this	section,	we	describe	various	defensive	tactics	that	have	been	used
+by	target	firms’	management	to	resist	unfriendly	attempts.	The	law
+surrounding	these	defenses	is	not	settled,	and	some	of	these	maneuvers	may
+ultimately	be	deemed	illegal	or	otherwise	unsuitable.
+THE	CORPORATE	CHARTER
+The
+corporate	charter
+	consists	of	the	articles	of	incorporation	and	corporate
+bylaws	that	establish	the	governance	rules	of	the	firm.	The	corporate	charter
+Page	880
+establishes	the	conditions	that	allow	for	a	takeover.	Firms	frequently	amend
+corporate	charters	to	make	acquisitions	more	difficult.	For	example,	usually
+two-thirds	(67	percent)	of	the	shareholders	of	record	must	approve	a
+merger.	Firms	can	make	it	more	difficult	to	be	acquired	by	changing	this
+required	percentage	to	80	percent	or	so.	Such	a	change	is	called	a
+supermajority	amendment.
+Another	device	is	to	stagger	the	election	of	the	board	members.	This
+makes	it	more	difficult	to	elect	a	new	board	of	directors	quickly.	Such	a
+board	is	sometimes	called	a
+classified	board
+.	We	discussed	staggered
+elections	in
+Chapter	8
+.
+REPURCHASE	AND	STANDSTILL	AGREEMENTS
+Managers	of	target	firms	may	attempt	to	negotiate
+standstill	agreements.
+Standstill	agreements	are	contracts	wherein	the	bidding	firm	agrees	to	limit
+its	holdings	in	the	target	firm.	These	agreements	usually	lead	to	the	end	of	a
+takeover	attempt.
+Standstill	agreements	often	occur	at	the	same	time	that	a
+targeted
+repurchase
+	is	arranged.	In	a	targeted	repurchase,	a	firm	buys	a	certain
+amount	of	its	own	stock	from	an	individual	investor,	usually	at	a	substantial
+premium.	These	premiums	can	be	thought	of	as	payments	to	potential
+bidders	to	eliminate	unfriendly	takeover	attempts.	Critics	of	such	payments
+view	them	as	bribes	and	label	them
+greenmail
+.
+greenmail
+In	a	targeted	stock	repurchase,	payments	made	to	potential	bidders	to	eliminate	unfriendly	takeover
+attempts.
+POISON	PILLS	AND	SHARE	RIGHTS	PLANS
+A
+poison	pill
+	is	a	tactic	designed	to	repel	would-be	suitors.
+The	term	comes	from	the	world	of	espionage.	Agents	are	supposed	to	bite	a
+pill	of	cyanide	rather	than	permit	capture.	Presumably,	this	prevents	enemy
+interrogators	from	learning	important	secrets.
+poison	pill
+A	financial	device	designed	to	make	unfriendly	takeover	attempts	unappealing,	if	not	impossible.
+In	the	equally	colorful	world	of	corporate	finance,	a	poison	pill	is	a
+financial	device	designed	to	make	it	impossible	for	a	firm	to	be	acquired
+without	management’s	consent—unless	the	buyer	is	willing	to	commit
+financial	suicide.
+A	majority	of	the	largest	firms	in	the	United	States	have	adopted	poison
+pill	provisions	of	one	form	or	another,	often	calling	them
+share	rights
+plans
+	(SRPs)	or	something	similar.	SRPs	differ	quite	a	bit	in	detail	from
+company	to	company;	we	will	describe	a	kind	of	generic	approach	here.	In
+general,	when	a	company	adopts	an	SRP,	it	distributes	share	rights	to	its
+existing	stockholders.
+8
+	These	rights	allow	shareholders	to	buy	shares	of
+stock	(or	preferred	stock)	at	some	fixed	price.
+share	rights	plans
+Provisions	allowing	existing	stockholders	to	purchase	stock	at	some	fixed	price	should	an	outside
+takeover	bid	come	up,	discouraging	hostile	takeover	attempts.
+The	rights	issued	with	an	SRP	have	a	number	of	unusual	features.	First,
+the	exercise,	or	subscription,	price	on	the	right	is	usually	set	high	enough	so
+that	the	rights	are	well	out	of	the	money,	meaning	that	the	purchase	price	is
+much	higher	than	the	current	stock	price.	The	rights	will	often	be	good	for
+10	years,	and	the	purchase,	or	exercise,	price	is	usually	a	reasonable
+estimate	of	what	the	stock	will	be	worth	at	the	end	of	that	time.
+In	addition,	unlike	ordinary	stock	rights,	these	rights	can’t	be	exercised
+immediately,	and	they	can’t	be	bought	and	sold	separately	from	the	stock.
+Also,	they	can	essentially	be	canceled	by	management	at	any	time;	often,
+they	can	be	redeemed	(bought	back)	for	a	penny	apiece,	or	some	similarly
+trivial	amount.
+Things	get	interesting	when,	under	certain	circumstances,	the	rights	are
+“triggered.”	This	means	that	the	rights	become	exercisable,	they	can	be
+bought	and	sold	separately	from	the	stock,	and	they	are	not	easily	canceled
+or	redeemed.	Typically,	the	rights	will	be	triggered	when	someone	acquires
+20	percent	of	the	common	stock	or	announces	a	tender	offer.
+When	the	rights	are	triggered,	they	can	be	exercised.	Because	they	are
+out	of	the	money,	this	fact	is	not	especially	important.	Certain	other	features
+come	into	play,	however.	The	most	important	is	the
+flip-in	provision.
+The	flip-in	provision	is	the	“poison”	in	the	pill.	In	the	event	of	an
+unfriendly	takeover	attempt,	the	holder	of	a	right	can	pay	the	exercise	price
+and	receive	common	stock	in	the	target	firm	worth	twice	the	exercise	price.
+In	other	words,	holders	of	the	rights	can	buy	stock	in	the	target	firm	at	half
+Page	881
+price.	Simultaneously,	the	rights	owned	by	the	raider	(the	acquirer)	are
+voided.	The	goal	of	the	flip-in	provision	is	to	massively	dilute	the	raider’s
+ownership	position.
+9
+	Doing	so	greatly	increases	the	cost	of	the	merger	to
+the	bidder	because	the	target	firm’s	shareholders	end	up	with	a	much	larger
+percentage	of	the	merged	firm.
+Notice	that	the	flip-in	provision	doesn’t	prevent	someone	from	acquiring
+control	of	a	firm	by	purchasing	a	majority	interest.	It	just	acts	to	vastly
+increase	the	cost	of	doing	so.
+The	intention	of	a	poison	pill	is	to	force	a	bidder	to	negotiate	with
+management.	Frequently,	merger	offers	are	made	with	the	contingency	that
+the	rights	will	be	canceled	by	the	target	firm.
+Some	new	varieties	of	poison	pills	have	appeared	on	the
+scene	in	recent	years.	For	example,	a	“chewable”	pill,
+common	in	Canada	but	not	in	the	United	States,	is	a	pill
+that	is	installed	by	shareholder	vote	and	can	be	redeemed	by	shareholder
+vote.	Then	there’s	the	“deadhand	pill,”	which	explicitly	gives	the	directors
+who	installed	the	pill,	or	their	handpicked	successors,	the	authority	to
+remove	the	pill.	This	type	of	pill	is	controversial	because	it	makes	it
+virtually	impossible	for	new	directors	elected	by	stockholders	to	remove	an
+existing	poison	pill.
+Recently,	a	method	of	circumventing	poison	pills	has	grown	in
+popularity.	Hedge	funds	or	other	large	investors,	all	of	whom	have	the	same
+agenda,	such	as	removing	the	company’s	management	or	changing	the	way
+the	company	operates,	band	together	and	purchase	a	large	block	of	stock.
+They	then	vote	to	remove	the	board	of	directors	and	company	management
+without	triggering	the	poison	pill	provision.
+GOING	PRIVATE	AND	LEVERAGED	BUYOUTS
+As	we	have	previously	discussed,	going	private	is	what	happens	when	the
+publicly	owned	stock	in	a	firm	is	replaced	with	complete	equity	ownership
+by	a	private	group,	which	may	include	elements	of	existing	management.
+As	a	consequence,	the	firm’s	stock	is	taken	off	the	market	(if	it	is	an
+exchange-traded	stock,	it	is	delisted)	and	is	no	longer	traded.
+One	result	of	going	private	is	that	takeovers	via	tender	offer	can	no
+longer	occur	because	there	are	no	publicly	held	shares.	In	this	sense,	an
+LBO	(or	more	specifically,	an	MBO)	can	be	a	takeover	defense.	However,
+it’s	a	defense	only	for	management.	From	the	stockholders’	point	of	view,
+an	LBO	is	a	takeover	because	they	are	bought	out.
+OTHER	DEVICES	AND	JARGON	OF	CORPORATE
+TAKEOVERS
+As	corporate	takeovers	have	become	more	common,	a	new	vocabulary	has
+developed.	The	terms	are	colorful,	and,	in	no	particular	order,	some	of	them
+are	listed	here:
+1.
+Golden	parachute:
+	Some	target	firms	provide	compensation	to	toplevel	managers	if	a	takeover	occurs.	For	example,	when	Berkshire
+Hathaway	and	3G	Capital	purchased	ketchup	maker	Heinz	in	2013,	it
+was	reported	that	Heinz	CEO	William	Johnson	became	eligible	for	a
+$212.6	million	payout	if	he	left	the	company.	The	opposite	of	a	golden
+parachute	is	a	“golden	handcuff,”	which	is	an	incentive	package
+designed	to	get	executives	to	stay	on	board	once	the	acquisition	is
+completed.
+Depending	on	your	perspective	and	the	amounts	involved,	golden
+parachutes	can	be	viewed	as	a	payment	to	management	to	make	it	less
+concerned	for	its	own	welfare	and	more	interested	in	stockholders
+when	considering	a	takeover	bid.
+2.
+Poison	put:
+	A	poison	put	is	a	variation	on	the	poison	pill	we	described
+earlier.	A	poison	put	forces	the	firm	to	buy	securities	back	at	some	set
+price.
+3.
+Crown	jewel:
+	Firms	often	sell	or	threaten	to	sell	major	assets—crown
+jewels—when	faced	with	a	takeover	threat.	This	is	sometimes	referred
+to	as	the
+scorched	earth
+	strategy.	This	tactic	often	involves	a	lockup,
+which	we	discuss	shortly.
+4.
+White	knight:
+	A	firm	facing	an	unfriendly	merger	offer	might	arrange
+to	be	acquired	by	a	different,	friendly	firm.	The	firm	is	thereby	rescued
+by	a	white	knight.	Alternatively,	the	firm	may	arrange	for	a	friendly
+entity	to	acquire	a	large	block	of	stock.	White	knights	can	often	increase
+the	amount	paid	to	the	target	firm.	For	example,	in	2013,	Aurizon
+Mines	received	a	bid	of	C$4.65	per	share	from	Alamos	Gold,	Inc.,
+which	was	already	Aurizon’s	largest	shareholder.	In	response,	Aurizon
+found	a	white	knight	in	Heclas	Mining,	which	purchased	Aurizon	for
+C$4.75	per	share.
+Page	882
+So-called	white	squires	or	big	brothers	are	individuals,	firms,	or
+even	mutual	funds	involved	in	friendly	transactions	of	these	types.
+Sometimes	white	knights	or	others
+	are	granted
+exceptional	terms	or	otherwise	compensated.
+Inevitably,	it	seems,	this	has	been	called
+whitemail.
+5.
+Lockup:
+	A	lockup	is	an	option	granted	to	a	friendly	suitor	(a	white
+knight,	perhaps)	giving	it	the	right	to	purchase	stock	or	some	of	the
+assets	(the	crown	jewels,	possibly)	of	a	target	firm	at	a	fixed	price	in	the
+event	of	an	unfriendly	takeover.
+6.
+Shark	repellent:
+	A	shark	repellent	is	any	tactic	(a	poison	pill,	for
+example)	designed	to	discourage	unwanted	merger	offers.
+7.
+Bear	hug:
+	A	bear	hug	is	an	unfriendly	takeover	offer	designed	to	be	so
+attractive	that	the	target	firm’s	management	has	little	choice	but	to
+accept	it.	For	example,	in	late	2013,	Charter	Cable	made	a	$38	billion
+bear	hug	offer	for	Time	Warner	Cable.	Evidently	this	bear	hug	wasn’t
+tight	enough	because,	in	early	2014,	Comcast	made	its	own	offer	of	$45
+billion	for	Time	Warner.
+8.
+Fair	price	provision:
+	A	fair	price	provision	is	a	requirement	that	all
+selling	shareholders	receive	the	same	price	from	a	bidder.	The	provision
+prevents	a	“two-tier”	offer.	In	such	a	deal,	a	bidder	offers	a	premium
+price	only	for	a	percentage	of	the	shares	large	enough	to	gain	control.	It
+offers	a	lower	price	for	the	remaining	shares.	Such	an	offer	can	set	off	a
+stampede	among	shareholders	as	they	rush	to	get	the	better	price.
+9.
+Dual	class	capitalization:
+	In	an	earlier	chapter,	we	noted	that	some
+firms	such	as	Google	have	more	than	one	class	of	common	stock	and
+that	voting	power	is	typically	concentrated	in	a	class	of	stock	not	held
+by	the	public.	Such	a	capital	structure	means	that	an	unfriendly	bidder
+will	not	succeed	in	gaining	control.
+10.
+Countertender	offer:
+	Better	known	as	the	“Pac-Man”	defense,	the
+target	responds	to	an	unfriendly	overture	by	offering	to	buy	the	bidder!
+This	tactic	is	rarely	used,	in	part	because	target	firms	are	usually	too
+small	to	realistically	purchase	the	bidder.	However,	such	a	countertender
+offer	occurred	in	2013.	Jos.	A.	Bank	made	an	offer	to	acquire	Men’s
+Wearhouse,	which	turned	down	the	offer.	When	Jos.	A.	Bank	pulled	the
+offer,	Men’s	Wearhouse	responded	with	a	$1.5	billion	bid	for	Jos.	A.
+Bank.	Finally,	after	the	offer	was	raised	to	$2.3	billion,	Jos.	A.	Bank
+accepted	the	offer	in	March	2014.
+Page	883
+Concept	Questions
+26.7a
+ What	can	a	firm	do	to	make	a	takeover	less	likely?
+26.7b
+ What	is	a	share	rights	plan?	Explain	how	the	rights	work.
+26.8
+ Some	Evidence	on	Acquisitions:	Does	M&A
+Pay?
+One	of	the	most	controversial	issues	surrounding	our	subject	is	whether
+mergers	and	acquisitions	benefit	shareholders.	A	very	large	number	of
+studies	have	attempted	to	estimate	the	effect	of	mergers	and	takeovers	on
+stock	prices	of	the	bidding	and	target	firms.	These	studies	have	examined
+the	gains	and	losses	in	stock	value	around	the	time	of	merger
+announcements.
+One	conclusion	that	clearly	emerges	is	that	M&A	pays	for	target	firm
+shareholders.	There	is	no	mystery	here.	The	premium	typically	paid	by
+bidders	represents	an	immediate,	relatively	large	gain,	often	on	the	order	of
+20	percent	or	more.
+Matters	become	much	more	murky	when	we	look	at
+bidders,	and	different	studies	reach	different	conclusions.
+One	thing	is	clear,	however.	Shareholders	in	bidder	firms
+seem	to	neither	win	nor	lose	very	much,	at	least	on	average.	This	finding	is
+a	bit	of	a	puzzle,	and	there	are	a	variety	of	explanations:
+1. Anticipated	merger	gains	may	not	be	completely	achieved,	and
+shareholders	thus	experience	losses.	This	can	happen	if	managers	of
+bidding	firms	tend	to	overestimate	the	gains	from	acquisition.
+2. The	bidding	firms	are	usually	much	larger	than	the	target	firms.	Thus,
+even	though	the	dollar	gains	to	the	bidder	may	be	similar	to	the	dollar
+gains	earned	by	shareholders	of	the	target	firm,	the	percentage	gains
+will	be	much	lower.
+3. Another	possible	explanation	for	the	low	returns	to	the	shareholders	of
+bidding	firms	in	takeovers	is	simply	that	management	may	not	be	acting
+in	the	interest	of	shareholders	when	it	attempts	to	acquire	other	firms.
+Perhaps	it	is	attempting	to	increase	the	size	of	the	firm,	even	if	this
+reduces	its	value	per	share.
+4. The	market	for	takeovers	may	be	sufficiently	competitive	that	the	NPV
+of	acquiring	is	zero	because	the	prices	paid	in	acquisitions	fully	reflect
+the	value	of	the	acquired	firms.	In	other	words,	the	sellers	capture	all	of
+the	gain.
+5. Finally,	the	announcement	of	a	takeover	may	not	convey	much	new
+information	to	the	market	about	the	bidding	firm.	This	can	occur
+because	firms	frequently	announce	intentions	to	engage	in	merger
+“programs”	long	before	they	announce	specific	acquisitions.	In	this
+case,	the	stock	price	for	the	bidding	firm	may	already	reflect	anticipated
+gains	from	mergers.
+Concept	Questions
+26.8a
+ What	does	the	evidence	say	about	the	benefits	of	mergers	and
+acquisitions	to	target	company	shareholders?
+26.8b
+ What	does	the	evidence	say	about	the	benefits	of	mergers	and
+acquisitions	to	acquiring	company	shareholders?
+26.9
+ Divestitures	and	Restructurings
+In	contrast	to	a	merger	or	acquisition,	a
+divestiture
+	occurs	when	a	firm	sells
+assets,	operations,	divisions,	and/or	segments	to	a	third	party.	Note	that
+divestitures	are	an	important	part	of	M&A	activity.	After	all,	one
+company’s	acquisition	is	usually	another’s	divestiture.	Also,	following	a
+merger,	it	is	very	common	for	certain	assets	or	divisions	to	be	sold.	Such
+sales	may	be	required	by	antitrust	regulations;	they	may	be	needed	to	raise
+cash	to	help	pay	for	a	deal;	or	the	divested	units	may	simply	be	unwanted
+by	the	acquirer.
+divestiture
+The	sale	of	assets,	operations,	divisions,	and/or	segments	of	a	business	to	a	third	party.
+Divestitures	also	occur	when	a	company	decides	to	sell	off	a	part	of	itself
+for	reasons	unrelated	to	mergers	and	acquisitions.	This	can	happen	when	a
+particular	unit	is	unprofitable	or	not	a	good	strategic	fit.	Or,	a	firm	may
+decide	to	cash	out	of	a	very	profitable	operation.	Finally,	a	cash-strapped
+firm	may	have	to	sell	assets	just	to	raise	capital	(this	commonly	occurs	in
+Page	884
+bankruptcy).
+A	divestiture	usually	occurs	like	any	other	sale.	A	company	lets	it	be
+known	that	it	has	assets	for	sale	and	seeks	offers.	If	a	suitable	offer	is
+forthcoming,	a	sale	occurs.
+In	some	cases,	particularly	when	the	desired	divestiture	is	a	relatively
+large	operating	unit,	companies	will	elect	to	do	an
+equity	carve-out
+.	To	do
+a	carve-out,	a	parent	company
+	first	creates	a	completely
+separate	company	of	which	the	parent	is	the	sole
+shareholder.	Next,	the	parent	company	arranges	an	initial
+public	offering	(IPO)	in	which	a	fraction,	perhaps	20	percent	or	so,	of	the
+parent’s	stock	is	sold	to	the	public,	thus	creating	a	publicly	held	company.
+equity	carve-out
+The	sale	of	stock	in	a	wholly	owned	subsidiary	via	an	IPO.
+Instead	of	a	carve-out,	a	company	can	elect	to	do	a
+spin-off
+.	In	a	spinoff,	the	company	simply	distributes	shares	in	the	subsidiary	to	its	existing
+stockholders	on	a	pro	rata	basis.	Shareholders	can	keep	the	shares	or	sell
+them	as	they	see	fit.	Very	commonly,	a	company	will	first	do	an	equity
+carve-out	to	create	an	active	market	for	the	shares	and	then	subsequently	do
+a	spin-off	of	the	remaining	shares	at	a	later	date.	Many	well-known
+companies	were	created	by	this	route.	For	example,	insurance	giant	Allstate
+was	spun	off	by	Sears;	Agilent	Technologies	was	a	Hewlett-Packard	spinoff;	and	Conoco	was	once	a	part	of	DuPont.
+spin-off
+The	distribution	of	shares	in	a	subsidiary	to	existing	parent	company	stockholders.
+In	a	less	common,	but	more	drastic	move,	a	company	can	elect	to	do	(or
+be	forced	to	do)	a
+split-up
+.	A	split-up	is	just	what	the	name	suggests:	A
+company	splits	itself	into	two	or	more	new	companies.	Shareholders	have
+their	shares	in	the	old	company	swapped	for	shares	in	the	new	companies.
+Probably	the	most	famous	split-up	occurred	in	the	1980s.	As	the	result	of	an
+antitrust	suit	by	the	Justice	Department,	AT&T	was	forced	to	split	up
+through	the	creation	of	seven	regional	phone	companies	(the	so-called	Baby
+Bells).	Today,	the	Baby	Bells	survive	as	companies	such	as	Verizon.	In	an
+unusual	turn	of	events,	in	2006,	SBC	Communications	acquired	its	former
+parent	company,	AT&T.	In	a	nod	to	AT&T’s	history	and	name	brand
+recognition,	the	new	company	kept	the	AT&T	name	even	though	SBC	was
+Page	885
+the	acquirer.
+split-up
+The	splitting	up	of	a	company	into	two	or	more	companies.
+Split-ups	are	often	touted	as	a	way	of	“unlocking”	value,	meaning	a
+situation	where	the	whole	is	worth	less	than	the	sum	of	the	parts.	For
+example,	in	2013,	News	Corporation	announced	it	would	split	into	two
+companies.	News	Corporation	would	retain	print	media	such	as
+The	Wall
+Street	Journal,	The	New	York	Post
+,	and	HarperCollins,	while	Fox
+Broadcasting,	Fox	News,	and	the	Hollywood	film	and	television	studio
+would	form	21st	Century	Fox.	Also	in	2013,	Science	Applications
+International	Corp.	(SAIC),	announced	that	it	would	split	into	two
+companies.	After	the	split,	the	name	would	be	retained	by	the	company	that
+focused	on	federal	government	contracting,	and	the	other	company	would
+be	known	as	Leidos,	which	would	focus	on	energy,	security,	and	healthcare	markets.
+Concept	Questions
+26.9a
+ What	is	an	equity	carve-out?	Why	might	a	firm	wish	to	do	one?
+26.9b
+ What	is	a	split-up?	Why	might	a	firm	choose	to	do	one?
+
+26.10
+	Summary	and
+Conclusions
+This	chapter	has	introduced	you	to	the	extensive	literature	on	mergers	and
+acquisitions.	We	mentioned	a	number	of	issues:
+1.
+
+Forms	of	merger:
+	One	firm	can	acquire	another	in	several
+different	ways.	The	three	legal	forms	of	acquisition	are
+merger	or	consolidation,	acquisition	of	stock,	and
+acquisition	of	assets.
+2.
+
+Tax	issues:
+	Mergers	and	acquisitions	can
+Page	885
+be	taxable	or	tax-free	transactions.	The
+primary	issue	is	whether	the	target	firm’s
+stockholders	sell	or	exchange	their	shares.	Generally,	a
+cash	purchase	will	be	a	taxable	merger,	whereas	a	stock
+exchange	will	not	be	taxable.	In	a	taxable	merger,	there	are
+capital	gains	effects	and	asset	write-up	effects	to	consider.
+In	a	stock	exchange,	the	target	firm’s	shareholders	become
+shareholders	in	the	merged	firm.
+3.
+
+Accounting	issues:
+	Accounting	for	mergers	and
+acquisitions	traditionally	involved	either	the	purchase
+method	or	the	pooling	of	interests	method.	In	2001,
+pooling	was	eliminated	as	an	option.	As	a	result,	a	merger
+or	acquisition	will	generally	result	in	the	creation	of
+goodwill;	but	under	the	new	guidelines,	goodwill	does	not
+have	to	be	amortized.
+4.
+
+Merger	valuation:
+	If	Firm	A	is	acquiring	Firm	B,	the
+benefits	(Δ
+V
+)	from	the	acquisition	are	defined	as	the	value
+of	the	combined	firm	(
+V
+AB
+)	less	the	value	of	the	firms	as
+separate	entities	(
+V
+A
+	and
+V
+B
+):
+Δ
+V
+	=
+V
+AB
+	−	(
+V
+A
+	+
+V
+B
+)
+The	gain	to	Firm	A	from	acquiring	Firm	B	is	the
+increased	value	of	the	acquired	firm,	Δ
+V
+,	plus	the	value
+of	B	as	a	separate	firm,
+V
+B
+.	The	total	value	of	Firm	B	to
+Firm	A,
+,	is	thus:
+	=	Δ
+V
+	+
+V
+B
+An	acquisition	will	benefit	the	shareholders	of	the
+acquiring	firm	if	this	value	is	greater	than	the	cost	of	the
+acquisition.
+The	cost	of	an	acquisition	can	be	defined	in	general
+terms	as	the	price	paid	to	the	shareholders	of	the	acquired
+firm.	The	cost	frequently	includes	a	merger	premium	paid
+to	the	shareholders	of	the	acquired	firm.	Moreover,	the
+cost	depends	on	the	form	of	payment—that	is,	the	choice
+between	paying	with	cash	or	paying	with	common	stock.
+Page	886
+5.
+
+Benefits:
+	The	possible	benefits	of	an	acquisition	come
+from	several	sources,	including	the	following:
+a.
+	Revenue	enhancement.
+b.
+	Cost	reductions.
+c.
+	Lower	taxes.
+d.
+	Reductions	in	capital	needs.
+6.
+
+Defensive	tactics:
+	Some	of	the	most	colorful	language	of
+finance	comes	from	defensive	tactics	used	in	acquisition
+battles.
+Poison	pills,	golden	parachutes,	crown	jewels
+,	and
+greenmail
+	are	some	of	the	terms	that	describe	various
+antitakeover	tactics.
+7.
+
+Effect	on	shareholders:
+	Mergers	and	acquisitions	have
+been	extensively	studied.	The	basic	conclusions	are	that,
+on	average,	the	shareholders	of	target	firms	do	well,
+whereas	the	shareholders	of	bidding	firms	do	not	appear	to
+gain	much.
+8.
+
+Divestitures:
+	For	a	variety	of	reasons,	companies	often
+wish	to	sell	assets	or	operating	units.	For	relatively	large
+divestitures	involving	operating	units,	firms	sometimes
+elect	to	do	carve-outs,	spin-offs,	or	split-ups.
+CONNECT	TO	FINANCE
+If	you	are	using
+Connect	Finance
+	in	your	course,	get
+online	to	take	a	Practice	Test,	check	out	study	tools,	and
+find	out	where	you	need	additional	practice.
+Can	you	answer	the	following
+Connect
+	Quiz
+questions?
+Section
+26.2
+What	is	one	result	of	the	Tax	Reform	Act	of	1986?
+Section
+26.3
+When	accounting	for	an	acquisition,	goodwill	is	the
+difference	between	what	two	things?
+Section
+26.6
+What	factors	should	be	considered	when	deciding
+whether	an	acquisition	should	be	financed	with	cash
+or	with	shares	of	stock?
+or	with	shares	of	stock?
+CHAPTER	REVIEW	AND	SELF-TEST
+PROBLEMS
+26.1 Merger	Value	and	Cost
+	Consider	the	following
+information	for	two	all-equity	firms,	A	and	B:
+Firm	A	estimates	that	the	value	of	the	synergistic
+benefit	from	acquiring	Firm	B	is	$6,000.	Firm	B	has
+indicated	that	it	would	accept	a	cash	purchase	offer	of
+$35	per	share.	Should	Firm	A	proceed?
+26.2 Stock	Mergers	and	EPS
+	Consider	the	following
+information	for	two	all-equity	firms,	A	and	B:
+Firm	A	is	acquiring	Firm	B	by	exchanging	100	of	its
+shares	for	all	the	shares	in	B.	What	is	the	cost	of	the
+merger	if	the	merged	firm	is	worth	$63,000?	What	will
+happen	to	Firm	A’s	EPS?	Its	PE	ratio?
+ANSWERS	TO	CHAPTER	REVIEW
+AND	SELF-TEST	PROBLEMS
+26.1
+ The	total	value	of	Firm	B	to	Firm	A	is	the	premerger
+value	of	B	plus	the	$6,000	gain	from	the	merger.	The
+premerger	value	of	B	is	$30	×	6,000	=
+$180,000
+,	so	the
+total	value	is	$186,000.	At	$35	per	share,	A	is	paying	$35
+×	6,000	=
+$210,000
+;	the	merger	therefore	has	a	negative
+Page	887
+NPV	of	$186,000	−	210,000	=
+−$24,000
+.	At	$35	per
+share,	B	is	not	an	attractive	merger	partner.
+26.2
+ After	the	merger,	the	firm	will	have	700	shares
+outstanding.	Because	the	total	value	is	$63,000,	the	price
+per	share	is	$63,000/700	=
+$90
+,	up	from	$70.	Because
+Firm	B’s	stockholders	end	up	with	100	shares	in	the
+merged	firm,	the	cost	of	the	merger	is	100	×	$90	=
+$9,000
+,	not	100	×	$70	=	$7,000.
+Also,	the	combined	firm	will	have	$3,000	+	1,100	=
+$4,100
+	in	earnings,	so	EPS	will	be	$4,100/700	=
+$5.86
+,
+up	from	$3,000/600	=	$5.	The	old	PE	ratio	was	$70/5	=
+14.00.	The	new	one	is	$90/5.86	=
+15.36
+.
+CONCEPTS	REVIEW	AND
+CRITICAL	THINKING	QUESTIONS
+1. Merger	Types
+[LO1]
+	In	2014,	Japanese	liquor	company
+Suntory	Holdings	acquired	U.S.	bourbon	maker	Beam,
+Inc.,	for	$14	billion.	Is	this	a	horizontal	or	vertical
+acquisition?	How	might	Beam’s	nationality	affect	the
+decision	by	Suntory?
+2. Merger	Terms
+[LO1]
+	Define	each	of	the	following
+terms:
+a.
+	Greenmail.
+b.
+	White	knight.
+c.
+	Golden	parachute.
+d.
+	Crown	jewels.
+e.
+	Shark	repellent.
+f.
+	Corporate	raider.
+g.
+	Poison	pill.
+h.
+	Tender	offer.
+i.
+	Leveraged	buyout	or	LBO.
+3. Merger	Rationale
+[LO1]
+	Explain	why	diversification
+per	se	is	probably	not	a	good	reason	for	merger.
+4. Corporate	Split
+[LO3]
+	In	2014,	activist	investor	Nelson
+Pelz	was	pressuring	PepsiCo	to	split	up	the	company.
+Pelz	felt	that	PepsiCo	should	split	up	the	soft	drink
+division,	which	includes	Pepsi,	Mountain	Dew,	and
+Tropicana,	and	the	snack	food	division,	with	brands
+Fritos,	Lay’s,	and	Doritos.	Why	might	investors	prefer
+that	a	company	split	into	multiple	companies?	Is	there	a
+possibility	of	reverse	synergy?
+5. Poison	Pills
+[LO1]
+	Are	poison	pills	good	or	bad	for
+stockholders?	How	do	you	think	acquiring	firms	are	able
+to	get	around	poison	pills?
+6. Merger	and	Taxes
+[LO2]
+	Describe	the	advantages	and
+disadvantages	of	a	taxable	merger	as	opposed	to	a	taxfree	exchange.	What	is	the	basic	determinant	of	tax	status
+in	a	merger?	Would	an	LBO	be	taxable	or	nontaxable?
+Explain.
+7. Economies	of	Scale
+[LO3]
+	What	does	it	mean	to	say	that
+a	proposed	merger	will	take	advantage	of	available
+economies	of	scale?	Suppose	Eastern	Power	Co.	and
+Western	Power	Co.	are	located	in	different	time	zones.
+Both	of	them	operate	at	60	percent	of	capacity	except	for
+peak	periods,	when	they	operate	at	100	percent	of
+capacity.	The	peak	periods	begin	at	9:00	a.m.	and	5:00
+p.m.	local	time	and	last	about	45	minutes.	Explain	why	a
+merger	between	Eastern	and	Western	might	make	sense.
+8. Hostile	Takeovers
+[LO1]
+	What	types	of	actions	might
+the	management	of	a	firm	take	to	fight	a	hostile
+acquisition	bid	from	an	unwanted	suitor?	How	do	the
+target	firm	shareholders	benefit	from	the	defensive	tactics
+of	their	management	team?	How	are	the	target	firm
+shareholders	harmed	by	such	actions?	Explain.
+9. Merger	Offers
+[LO1]
+	Suppose	a	company	in	which	you
+own	stock	has	attracted	two	takeover	offers.	Would	it
+ever	make	sense	for	your	company’s	management	to
+favor	the	lower	offer?	Does	the	form	of	payment	affect
+your	answer	at	all?
+10. Merger	Profit
+[LO2]
+	Acquiring	firm	stockholders	seem
+to	benefit	very	little	from	takeovers.	Why	is	this	finding	a
+Page	888
+puzzle?	What	are	some	of	the	reasons	offered	for	it?
+BASIC
+(Questions	1–8)
+1. Calculating	Synergy
+[LO3]
+	Pearl,	Inc.,	has	offered	$357
+million	cash	for	all	of	the	common	stock	in	Jam
+Corporation.	Based	on	recent	market	information,	Jam	is
+worth	$319	million	as	an	independent	operation.	If	the
+merger	makes	economic
+	sense	for	Pearl,
+what	is	the	minimum	estimated	value	of
+the	synergistic	benefits	from	the	merger?
+
+2. Balance	Sheets	for	Mergers
+[LO2]
+	Consider	the
+following	premerger	information	about	Firm	X	and	Firm
+Y:
+Assume	that	Firm	X	acquires	Firm	Y	by	paying	cash	for
+all	the	shares	outstanding	at	a	merger	premium	of	$6	per
+share.	Assuming	that	neither	firm	has	any	debt	before	or
+after	the	merger,	construct	the	postmerger	balance	sheet
+for	Firm	X	assuming	the	use	of	purchase	accounting.
+3. Balance	Sheets	for	Mergers
+[LO2]
+	Assume	that	the
+following	balance	sheets	are	stated	at	book	value.
+Suppose	that	Meat	Co.	purchases	Loaf,	Inc.
+The	fair	market	value	of	Loaf’s	fixed	assets	is	$9,500
+versus	the	$6,700	book	value	shown.	Meat	pays	$17,300
+for	Loaf	and	raises	the	needed	funds	through	an	issue	of
+long-term	debt.	Construct	the	postmerger	balance	sheet
+under	the	purchase	accounting	method.
+
+4.	Balance	Sheets	for	Mergers
+[LO2]
+	Silver	Enterprises
+has	acquired	All	Gold	Mining	in	a	merger	transaction.
+Construct	the	balance	sheet	for	the	new	corporation	if	the
+merger	is	treated	as	a	purchase	of	interests	for	accounting
+purposes.	The	following	balance	sheets	represent	the
+premerger	book	values	for	both	firms:
+
+Page	889
+The	market	value	of	All	Gold	Mining’s	fixed	assets	is
+$9,100;	the	market	values	for	current	and	other	assets	are
+the	same	as	the	book	values.	Assume	that	Silver
+Enterprises	issues	$15,000	in	new	long-term	debt	to
+finance	the	acquisition.
+
+5.	Cash	versus	Stock	Payment
+[LO3]
+	Penn	Corp.	is
+analyzing	the	possible	acquisition	of	Teller	Company.
+Both	firms	have	no	debt.	Penn	believes	the	acquisition
+will	increase	its	total	aftertax	annual	cash	flows	by	$1.9
+million	indefinitely.	The	current	market	value	of	Teller	is
+$41	million,	and	that	of	Penn	is	$79	million.	The
+appropriate	discount	rate	for	the	incremental	cash	flows	is
+10	percent.	Penn	is	trying	to	decide	whether	it	should
+offer	40	percent	of	its	stock	or	$57	million	in	cash	to
+Teller’s	shareholders.
+a.
+	What	is	the	cost	of	each	alternative?
+b.
+	What	is	the	NPV	of	each	alternative?
+c.
+	Which	alternative	should	Penn	choose?
+6. Calculating	Synergy
+[LO3]
+	Three	Guys	Burgers,	Inc.,
+has	offered	$19	million	for	all	of	the	common	stock	in
+Two	Guys	Fries,	Corp.	The	current	market	capitalization
+of	Two	Guys	as	an	independent	company	is	$15	million.
+Assume	the	required	return	on	the	acquisition	is	9	percent
+and	the	synergy	from	the	acquisition	is	a	perpetuity.	What
+is	the	minimum	annual	synergy	that	Three	Guys	feels	it
+will	gain	from	the	acquisition?
+7
+. EPS,	PE,	and	Mergers
+[LO3]
+	The	shareholders	of	Jolie
+Company	have	voted	in	favor	of	a	buyout	offer	from	Pitt
+Corporation.	Information	about	each	firm	is	given	here:
+Page	890
+Jolie’s	shareholders	will	receive	one	share	of	Pitt	stock	for
+every	three	shares	they	hold	in	Jolie.
+a.
+	What	will	the	EPS	of	Pitt	be	after	the	merger?	What
+will	the	PE	ratio	be	if	the	NPV	of	the	acquisition	is
+zero?
+b.
+	What	must	Pitt	feel	is	the	value	of	the	synergy
+between	these	two	firms?	Explain	how	your	answer
+can	be	reconciled	with	the	decision	to	go	ahead	with
+the	takeover.
+8. Cash	versus	Stock	as	Payment
+[LO3]
+	Consider	the
+following	premerger	information	about	a	bidding	firm
+(Firm	B)	and	a	target	firm	(Firm	T).	Assume	that	both
+firms	have	no	debt	outstanding.
+Firm	B	has	estimated	that	the	value	of	the
+synergistic	benefits	from	acquiring	Firm
+T	is	$9,400.
+a.
+	If	Firm	T	is	willing	to	be	acquired	for	$21	per	share	in
+cash,	what	is	the	NPV	of	the	merger?
+b.
+	What	will	the	price	per	share	of	the	merged	firm	be
+assuming	the	conditions	in	(a)?
+c.
+	In	part	(a),	what	is	the	merger	premium?
+d.
+	Suppose	Firm	T	is	agreeable	to	a	merger	by	an
+exchange	of	stock.	If	B	offers	one	of	its	shares	for
+every	two	of	T’s	shares,	what	will	the	price	per	share
+of	the	merged	firm	be?
+e.
+	What	is	the	NPV	of	the	merger	assuming	the
+conditions	in	(d)?
+INTERMEDIATE
+(Questions	9–13)
+9
+. Cash	versus	Stock	as	Payment
+[LO3]
+	In	the	previous
+problem,	are	the	shareholders	of	Firm	T	better	off	with
+the	cash	offer	or	the	stock	offer?	At	what	exchange	ratio
+of	B	shares	to	T	shares	would	the	shareholders	in	T	be
+indifferent	between	the	two	offers?
+
+10. Effects	of	a	Stock	Exchange
+[LO3]
+	Consider	the
+following	premerger	information	about	Firm	A	and	Firm
+B:
+Assume	that	Firm	A	acquires	Firm	B	via	an	exchange	of
+stock	at	a	price	of	$49	for	each	share	of	B’s	stock.	Both	A
+and	B	have	no	debt	outstanding.
+a.
+	What	will	the	earnings	per	share	(EPS)	of	Firm	A	be
+after	the	merger?
+b.
+	What	will	Firm	A’s	price	per	share	be	after	the
+merger	if	the	market	incorrectly	analyzes	this	reported
+earnings	growth	(that	is,	the	price–earnings	ratio	does
+not	change)?
+c.
+	What	will	the	price–earnings	ratio	of	the	postmerger
+firm	be	if	the	market	correctly	analyzes	the
+transaction?
+d.
+	If	there	are	no	synergy	gains,	what	will	the	share
+price	of	A	be	after	the	merger?	What	will	the	price–
+earnings	ratio	be?	What	does	your	answer	for	the
+share	price	tell	you	about	the	amount	A	bid	for	B?
+Was	it	too	high?	Too	low?	Explain.
+11. Merger	NPV
+[LO3]
+	Show	that	the	NPV	of	a	merger	can
+be	expressed	as	the	value	of	the	synergistic	benefits,	Δ
+V
+,
+less	the	merger	premium.
+12. Merger	NPV
+[LO3]
+	Fly-By-Night	Couriers	is	analyzing
+the	possible	acquisition	of	Flash-in-the-Pan	Restaurants.
+Page	891
+Neither	firm	has	debt.	The	forecasts	of	Fly-By-Night
+show	that	the	purchase	would	increase	its	annual	aftertax
+cash	flow	by	$425,000	indefinitely.	The	current	market
+value	of	Flash-in-the-Pan	is	$8.8	million.	The	current
+market	value	of	Fly-By-Night	is	$22	million.	The
+appropriate	discount	rate	for	the	incremental	cash	flows	is
+8	percent.	Fly-By-Night	is	trying	to	decide	whether	it
+should	offer	35	percent	of	its	stock	or	$12	million	in	cash
+to	Flash-in-the-Pan.
+a.
+	What	is	the	synergy	from	the	merger?
+b.
+	What	is	the	value	of	Flash-in-the-Pan	to	Fly-ByNight?
+c.
+	What	is	the	cost	to	Fly-By-Night	of	each	alternative?
+d.
+	What	is	the	NPV	to	Fly-By-Night	of	each	alternative?
+e.
+	Which	alternative	should	Fly-By-Night	use?
+13
+. Merger	NPV
+[LO3]
+	Harrods	PLC	has	a
+market	value	of	£110	million	and	5
+million	shares	outstanding.	Selfridge
+Department	Store	has	a	market	value	of	£34	million	and	2
+million	shares	outstanding.	Harrods	is	contemplating
+acquiring	Selfridge.	Harrods’	CFO	concludes	that	the
+combined	firm	with	synergy	will	be	worth	£157	million,
+and	Selfridge	can	be	acquired	at	a	premium	of	£4	million.
+a.
+	If	Harrods	offers	1.2	million	shares	of	its	stock	in
+exchange	for	the	2	million	shares	of	Selfridge,	what
+will	the	stock	price	of	Harrods	be	after	the
+acquisition?
+b.
+	What	exchange	ratio	between	the	two	stocks	would
+make	the	value	of	a	stock	offer	equivalent	to	a	cash
+offer	of	£38	million?
+CHALLENGE
+(Question	14)
+14. Calculating	NPV
+[LO3]
+	BQ,	Inc.,	is	considering	making
+an	offer	to	purchase	iReport	Publications.	The	vice
+president	of	finance	has	collected	the	following
+information:
+BQ	also	knows	that	securities	analysts	expect	the	earnings
+and	dividends	of	iReport	to	grow	at	a	constant	rate	of	5
+percent	each	year.	BQ	management	believes	that	the
+acquisition	of	iReport	will	provide	the	firm	with	some
+economies	of	scale	that	will	increase	this	growth	rate	to	7
+percent	per	year.
+a.
+	What	is	the	value	of	iReport	to	BQ?
+b.
+	What	would	BQ’s	gain	be	from	this	acquisition?
+c.
+	If	BQ	were	to	offer	$38	in	cash	for	each	share	of
+iReport,	what	would	the	NPV	of	the	acquisition	be?
+d.
+	What’s	the	most	BQ	should	be	willing	to	pay	in	cash
+per	share	for	the	stock	of	iReport?
+e.
+	If	BQ	were	to	offer	205,000	of	its	shares	in	exchange
+for	the	outstanding	stock	of	iReport,	what	would	the
+NPV	be?
+f.
+	Should	the	acquisition	be	attempted?	If	so,	should	it
+be	as	in	(c)	or	as	in	(e)?
+g.
+	BQ’s	outside	financial	consultants	think	that	the	7
+percent	growth	rate	is	too	optimistic	and	a	6	percent
+rate	is	more	realistic.	How	does	this	change	your
+previous	answers?
+MINICASE
+The	Birdie	Golf–Hybrid	Golf	Merger
+Birdie	Golf,	Inc.,	has	been	in	merger	talks	with	Hybrid	Golf
+Company	for	the	past	six	months.	After	several	rounds	of
+negotiations,	the	offer	under	discussion	is	a	cash	offer	of	$250
+million	for	Hybrid	Golf.	Both	companies	have	niche	markets
+in	the	golf	club	industry,	and	both	believe	that	a	merger	will
+Page	892
+result	in	synergies	due	to	economies	of	scale	in	manufacturing
+and	marketing,	as	well	as	significant	savings	in	general	and
+administrative	expenses.
+Bryce	Bichon,	the	financial	officer	for	Birdie,	has	been
+instrumental	in	the	merger	negotiations.	Bryce	has	prepared
+the	following	pro	forma	financial	statements	for	Hybrid	Golf
+assuming	the	merger	takes	place.	The	financial	statements
+include	all	synergistic	benefits	from	the	merger.
+If	Birdie	Golf	buys	Hybrid	Golf,	an	immediate	dividend	of
+$67.5	million	would	be	paid	from	Hybrid	Golf	to	Birdie.	Stock
+in	Birdie	Golf	currently	sells	for	$87	per	share,	and	the
+company	has	18	million	shares	of	stock	outstanding.	Hybrid
+Golf	has	8	million	shares	of	stock	outstanding.	Both
+companies	can	borrow	at	an	8	percent	interest	rate.	Bryce
+believes	the	current	cost	of	capital	for	Birdie	Golf	is	11
+percent.	The	cost	of	capital	for	Hybrid	Golf	is	12.4	percent,
+and	the	cost	of	equity	is	16.9	percent.	In	five	years,	the	value
+of	Hybrid	Golf	is	expected	to	be	$270	million.
+Bryce	has	asked	you	to	analyze	the	financial	aspects	of	the
+potential	merger.	Specifically,	he	has	asked	you	to	answer	the
+following	questions.
+QUESTIONS
+1.	Suppose	Hybrid	shareholders	will	agree	to	a	merger	price
+of	$31.25	per	share.	Should	Birdie	proceed	with	the
+merger?
+2.	What	is	the	highest	price	per	share	that	Birdie	should	be
+2.	What	is	the	highest	price	per	share	that	Birdie	should	be
+willing	to	pay	for	Hybrid?
+3.	Suppose	Birdie	is	unwilling	to	pay	cash	for	the	merger	but
+will	consider	a	stock	exchange.	What	exchange	ratio
+would	make	the	merger	terms	equivalent	to	the	original
+merger	price	of	$31.25	per	share?
+4.	What	is	the	highest	exchange	ratio	Birdie	should	be
+willing	to	pay	and	still	undertake	the	merger?
+__________
+1
+Mergers	between	corporations	require	compliance	with	state	laws.	In
+virtually	all	states,	the	shareholders	of	each	corporation	must	give	their
+assent.
+2
+Having
+control
+	may	be	defined	as	having	a	majority	vote	on	the	board	of
+directors.
+3
+Remember,	there	are	assets	such	as	employee	talents,	good	customers,
+growth	opportunities,	and	other	intangibles	that	don’t	show	up	on	the
+balance	sheet.	The	$2	million	excess	pays	for	these.
+4
+You	might	wonder	what	would	happen	if	the	purchase	price	were	less	than
+the	estimated	fair	market	value.	Amusingly,	to	be	consistent,	it	seems	that
+the	accountants	would	need	to	create	a	liability	called
+ill	will!
+	Instead,	the
+fair	market	value	is	revised	downward	to	equal	the	purchase	price.
+5
+This	example	comes	from	Michael	Porter,
+Competitive	Advantage
+	(New
+York:	Free	Press,	1985).
+6
+Under	the	1986	Tax	Reform	Act,	a	corporation’s	ability	to	carry	forward
+net	operating	losses	(and	other	tax	credits)	is	limited	when	more	than	50
+percent	of	the	stock	changes	hands	over	a	three-year	period.
+7
+For	a	more	complete	discussion	of	the	costs	of	a	merger	and	the	NPV
+approach,	see	S.C.	Myers,	“A	Framework	for	Evaluating	Mergers,”	in
+Modern	Developments	in	Financial	Management
+,	ed.	S.C.	Myers	(New
+York:	Praeger	Publishers,	1976).
+8
+We	discussed	ordinary	share	rights	in
+Chapter	15
+.
+9
+Some	plans	also	contain	“flip-over”	provisions.	These	allow	the	holders	to
+buy	stock	in	the	merged	company	at	half	price.
