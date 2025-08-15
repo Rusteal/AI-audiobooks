@@ -26,3 +26,8 @@ Nvidia 4060 8gb creates 16 sec of audio in 13 sec, sourse: https://www.youtube.c
 My laptop Intel i7-12700H 12th gen: 122 sec for 15 sec voicefile.
 Nvidia 4070: 8.7 sec for 16 sec audifile
 https://www.videocardbenchmark.net/high_end_gpus.html
+
+
+My own benchmarks:
+5060 Ti, created a file from a given voice, 3.5 minutes file, produced in sligtly more than 5 minutes.
+another file 20 pages, file duration: 42:22 min , produced in: 1600*2=3200 seconds, or almoust an hour.
